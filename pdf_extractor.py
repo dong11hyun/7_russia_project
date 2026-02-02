@@ -140,16 +140,53 @@ def extract_with_ocr(pdf_path: Path) -> dict:
         
         # PDF를 이미지로 변환
         # poppler가 필요합니다
+        import shutil
+        
+        # Poppler 경로 설정 (Winget 설치 경로 자동 탐색 또는 하드코딩)
+        poppler_path = None
+        
+        # 1. 환경 변수에서 찾기
+        if shutil.which("pdfinfo"):
+             # 이미 PATH에 있으면 None으로 두어도 됨 (하지만 명시적이 좋음)
+             pass
+        
+        # 2. 알려진 경로 확인 (Winget 설치 경로 - 동적 탐색)
+        import glob
+        local_app_data = os.environ.get('LOCALAPPDATA', '')
+        
+        # 사용자 프로필 경로 문제 해결 및 버전 독립적 탐색
+        winget_pattern = os.path.join(local_app_data, r"Microsoft\WinGet\Packages\oschwartz10612.Poppler*\**\bin")
         try:
-            images = convert_from_path(pdf_path)
+            found_paths = [p for p in glob.glob(winget_pattern, recursive=True) if os.path.isdir(p) and "pdfinfo.exe" in os.listdir(p)]
+        except:
+            found_paths = []
+
+        known_paths = found_paths + [
+            r"C:\Program Files\Poppler\bin"
+        ]
+        
+        for path in known_paths:
+            if os.path.exists(path):
+                poppler_path = path
+                break
+                
+        try:
+            # poppler_path가 있으면 지정, 없으면 PATH 사용
+            if poppler_path:
+                images = convert_from_path(pdf_path, poppler_path=poppler_path)
+            else:
+                images = convert_from_path(pdf_path)
         except Exception as e:
             result["error"] = f"PDF를 이미지로 변환 실패 (poppler 필요): {str(e)}"
             return result
         
         all_text = []
         
+        print(f"    - 총 {len(images)} 페이지 OCR 처리 중...")
         for page_num, image in enumerate(images):
             # OCR 수행 (한국어 + 영어 + 러시아어)
+            # 러시아어가 포함되어 있으므로 언어 코드 확인 필요
+            # Tesseract 5.x에서는 rus, kor, eng 사용
             page_text = pytesseract.image_to_string(
                 image, 
                 lang='kor+eng+rus',
@@ -192,7 +229,9 @@ def compare_methods(pdf_path: Path) -> dict:
     results["pdfplumber"] = extract_with_pdfplumber(pdf_path)
     
     # 방법 3: OCR (선택적)
-    print("  [3/3] OCR 추출은 별도 확인 필요 (Tesseract/poppler 필요)")
+    print("  [3/3] OCR(Tesseract)로 추출 중... (시간이 걸릴 수 있습니다)")
+    results["ocr"] = extract_with_ocr(pdf_path)
+    
     # OCR은 시간이 오래 걸리고 추가 설치가 필요하므로 기본적으로 비활성화
     # results["ocr"] = extract_with_ocr(pdf_path)
     
@@ -273,21 +312,20 @@ def main():
         f.write(f"추출 시간: {datetime.now().isoformat()}\n")
         f.write("=" * 80 + "\n\n")
         
-        f.write(f"{'파일명':<50} {'PyMuPDF':>12} {'pdfplumber':>12}\n")
+        f.write(f"{'파일명':<40} {'PyMuPDF':>10} {'pdfplumber':>10} {'OCR':>10}\n")
         f.write("-" * 80 + "\n")
         
         for pdf_name, results in all_results.items():
             pymupdf_chars = len(results.get("pymupdf", {}).get("text", ""))
             pdfplumber_chars = len(results.get("pdfplumber", {}).get("text", ""))
+            ocr_chars = len(results.get("ocr", {}).get("text", ""))
             
             # 파일명 줄이기
-            short_name = pdf_name[:47] + "..." if len(pdf_name) > 50 else pdf_name
-            f.write(f"{short_name:<50} {pymupdf_chars:>12,} {pdfplumber_chars:>12,}\n")
+            short_name = pdf_name[:35] + "..." if len(pdf_name) > 38 else pdf_name
+            f.write(f"{short_name:<40} {pymupdf_chars:>10,} {pdfplumber_chars:>10,} {ocr_chars:>10,}\n")
         
         f.write("\n\n주의사항:\n")
-        f.write("- 문자 수가 0이면 해당 PDF에 텍스트 레이어가 없거나 이미지 PDF입니다.\n")
-        f.write("- 이미지 PDF의 경우 OCR 방법을 사용해야 합니다.\n")
-        f.write("- OCR 사용을 위해서는 Tesseract와 poppler 설치가 필요합니다.\n")
+        f.write("- OCR 결과는 이미지 품질에 따라 정확도가 달라질 수 있습니다.\n")
     
     print(f"\n결과가 '{OUTPUT_DIR}' 폴더에 저장되었습니다.")
     print(f"요약 파일: {summary_file}")

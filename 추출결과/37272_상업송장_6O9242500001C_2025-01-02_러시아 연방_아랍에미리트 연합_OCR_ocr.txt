@@ -1,0 +1,136 @@
+# 추출 방법: OCR (pytesseract)
+# 원본 파일: 37272_상업송장_6O9242500001C_2025-01-02_러시아 연방_아랍에미리트 연합_OCR.pdf
+# 추출 시간: 2026-02-03T00:26:19.978993
+# 총 문자 수: 4,526자
+# 총 페이지: 3페이지
+============================================================
+
+Ss Z=. ZA SFB GENERAL TRADING L.L.C.
+= 욱 = Registered address: Office P2TM-A08, Building WHP2-BLOCK-T
+es COMMERCIAL, Saih Shuaib 3, Dubai, UAE
++971553188977
+SFB TRADING 1이
+CHEMART KOREA LTD. Invoice: 136-P/50357521-3
+RM.1905, YANGJAE-DONG, WINDSTONE
+HOFFICETEL, 79, NONHYEON-RO, SEOCHO-
+GU, SEOUL, KOREA Customs invoice : 1000695228
+Invoice date: 23.10.2024
+Terms of delivery: 4 eottimuaceg 제 애
+Destination country: The Republic Of Korea
+Product specification : BIRCH PLYWOOD, Goods code 4412330000.
+Thick- ~ Length, Price, Production
+ness, mm 비 mm USD date
+pack
+[GontamernFESUSTORISD 。 . . . . | . . |
+| 메 | ㅠ [ о ое , [ ® [ow lim | ® [um [ 5ю | men [rma
+fretainiwoice; |store || отива | uso |
+Date of shipment :23.10.2024
+Please transfer the total value of the invoice without any deductions and free of charges to:
+Beneficiary's bank : ABU DHABI ISLAMIC BANK
+IBAN USD: AE4305000000000 19105775 7
+. 스 Adal) 5
+SWIFT: ABDIAEADXXX { 、그′ QD
+Bank address: SHEIKH RASHID BIN SAEED STREET, ABU DHABI, United Arab Emirates ° {29
+<
+° &
+Corr. Bank: RAIFFEISEN BANK INTERNATIONAL, a “eens. No, &
+SWIFT CODE: RZBAATWW al p 1134394 ”
+고 oY
+, ) ,
+Qn ME /
+NV :
+Ye, by
+4 / Ky
+TRAD
+
+aw
+LIMITED LIABILITY COMPANY MULTIMODAL TRANSPORT 삐 Ш_
+ла,
+FESCO INTEGRATED TRANSPORT BILL OF LADING rsciorsiresuna — [ 톰 [ ie
+SHIPPER (Name and Full Address)
+Piywcod Systems LLC BILL OF LADING No. IWOPUS24110148
+192012, Russia, Saint-Petersburg,
+Obuhovskoj oborony av., 112, . 2, liter |, of. 233
+$$$! fnfegrafed T+\ansporf
+CHEMART KOREA LTD,
+RM 1905, WINDSTONE HOFFICETEL, 275-2,
+YANGJAE-DONG, SEOCHO-GU, SEOUL, 06775
+KOREA COPY
+yhe_chemart@naver.com NON - NEGOTIABLE
+NOTIFY PARTY (Name and Full Address) ALSO NOTIFY (Name and Full Address/DOMESTIC ROUTING)
+CHEMART KOREA LTD. EXPORT INSTRUCTIONS/PIER-TERMINAL/ONFORWARD ROUTING
+RM 1905, WINDSTONE HOFFICETEL, 275-2, FROM POINT OF DESTINATION
+YANGJAE-DONG, SEOCHO-GU, SEOUL, 06775
+KOREA
+yhe chemart @naver.com
+INITIAL CARRIAGE (Mode)* ION-CARRIAGE VOYAGE , й й
+|ВЕКМСЕ NAME Korea Soviet Direct Line
+PLACE OF RECEIPT“ ь
+IPLACE OF DELIVERY’ INCHEON BOOKING No. IVVOPUS24110148
+EXPORT CARRIER (Vessel & Flag) WOYAGE QUOTE No.
+Q YANINA HKK1077
+PORT OF LOADING IPORT OF DISCHARGE NUMBER OF ORIGINAL BILLS OF LADING
+VLADIVOSTOK BUSAN
+BELOW PARTICULARS OF THE GOODS FURNISHED BY THE SHIPPER
+MARKS AND NUMBERS NUMBER ОР DESCRIPTION OF PACKAGES AND GOODS WEIGHT (KGS) MEASUREMENT
+PACKAGES,
+ке | 예 | "
+1X40HC ORIGIN RUSSIAN FEDERATION
+BIRCH PLYWOOD
+FREIGHT PREPAID
+CLEAN ON BOARD
+28 Parcel A4OHC/COC/FESU 5166132 21,239.0000| 22,911.0000] 32.6760
+Seals: B5174416
+TARE WT: 3 840,00
+TOTAL: 28 Parcel 1 Container 21,239.0000| 22,911.0000] 32.6760
+FCL/FCL
+FIFOT
+FREIGHT + CHARGES | prepa = | couect | The undersigned Ocean Carrier hereby acknowledges receipt on board of the sealed container
+or packages or other shipping units said to contain the Goods described above in apparent external
+good order and condition unless otherwise started. All particulars (weight, measure, marks, numbers,
+quantity, contents, value, etc) thereof being as stated by the Merchant but unknown to the Ocean
+Carrier.
+In accepting this Bill of Lading the Merchant accepts and agrees that the receipt, custody,
+FREIGHT PREPAID carriage and delivery of the goods is subject to all the terms and conditions set forth and incorporated
+by reference on this side and reverse hereof, whether written, stamped or printed.
+The Ocean Carrier has signed the above mentioned number of originals of this Bill of Lading
+all of the same tenor and date, one of which being accomplished, the others to be void.
+Signed on behalf of the Ocean Carrier by:
+TOTAL —
+PLACEOEISSUE: MOSCOW [ — ass agent for the Ocean Carrier,
+DATE OF ISSUE: 23.12.2024 | | . . |56500016984160784485000140
+“APPLICABLE ONLY WHEN USED AS A MULTIMODAL BILL OF LADING 2897942
+
+&
+ie .
+헤 .
+ee ces
+ГО
+어 cee 즈
+_ A} Я AL. & = © [
+( 법 인 사 업 자 )
+S SHS: 126-85-60331
+법 인 명 ( 단 체 명 ) ;ЕНН ( 주 ) 이 천 공 장
+대 표 자 : 권 호연
+ANY 연 월 일 : 2014 년 08 월 25 일 법 인 등 록 번 호 : 110111-3618331
+사 업 장 소 재 지 : 경 기 도 이 친 시 신 둔 면 황 무 로 338 번 길 281 ㅁ 용 면 리 72-15,72-25
+니 7/2-26,72-27
+본 점 소 재 지 : 서 울 특 별 시 Ма Яе 79019058 ( 양 재 동 , 원 드 스 톤 호
+피 스 텔 )
+사 업 의 종 류 (SH 제 조 업 히 목 재 가 공 및 시 공
+도 소 매 무 역
+발 급 사 유 : 사 업 장 주 소 추 가
+! TEL : 02-575-8400
+FAX : 02-575-9017
+E-MAIL : chemart2@bill36524.com
+사 업 자 단 위 과 세 적 용 사 업 자 여 부 : 여 ( ) BV)
+전 자 세 금 계 산 서 전 용 전 자 우 편 주 소 : chemart2@hometax.go.kr
+녀 ©) © =
+2019 년 03 월 15 글 둘뻬큰
+eaten
+이 처 세 무 서 자 10988
+천 세 무 서 징 delim
+Se 아
+о
+= AAs
+(*) be conan 6 ee es Use Seiad Rese ee nee 5 Sa ha ee

@@ -1,0 +1,43 @@
+# 추출 방법: OCR (pytesseract)
+# 원본 파일: 37136_상업송장_4148024001SVC_2025-01-02_러시아 연방_홍콩_OCR.pdf
+# 추출 시간: 2026-02-03T00:26:09.877194
+# 총 문자 수: 764자
+# 총 페이지: 1페이지
+============================================================
+
+INVOICE Ow-6
+DATE: 10.12.2024
+SENT BY
+Company Name: SODATEX LIMITED
+Address: 2302, 23/F, Tung Chiu Conunercial Centre,
+193-197 Lockhart Road, WanchaQ, Hong Kong
+Bank: Standard Chartered Bank (Hong Kong) Ltd
+Bank Address: 32nd Floor, 4-4A Des Voeux Road Central
+Account 47413302137
+number:
+SWIFT SCBLHKHH
+SENT_TO.
+Company Name: QONESTOP WOOD CO.,LTD
+Address: 22, DODONG-RO, 88BEON-GIL, JINJU-SI, GYEONGSANGNAM-DO, KOREA
+Contract » OW-SL/2022 dd 29.06.2022
+Terms of delivery: CFR Busan
+Good: White wood
+timb tae
+Pct | лан на
+~~ 도괴
+= = | ~ |
+AR 7
+pcs | = 00
+_ Se аваа П- 태태 :
+иа ЛЕ
+[ ее [а [ к | ㄴ | [ 48 [0 [ та
+깅 6657
+[ 빼 여 ㅣ _ _ [ . [ ® [ ж | ~ [ [ — 찌
+Г [ ее [ [ б ]
+ft' anti «N }isJfo% qf"
+Sodatex limited
+ah Ｌ j
+“he iq WA,
+Ne 3 ;
+Trad К tar VLE
+Chan Cheuk Ling

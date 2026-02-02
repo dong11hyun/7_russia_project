@@ -1,0 +1,51 @@
+# 추출 방법: OCR (pytesseract)
+# 원본 파일: 37346_상업송장_429012500005C_2025-01-02_러시아 연방_러시아 연방.pdf
+# 추출 시간: 2026-02-03T00:26:22.992999
+# 총 문자 수: 1,673자
+# 총 페이지: 1페이지
+============================================================
+
+' Seller LLC "Angara plus" / ООО «Ангара плюс»
+я Address 665724, Irkutsk region, c.d. Bratsk c., 0. Bratsk residential area Central,
+" str. Krupskoi, @. 28 / 665724, Иркутская область, ГО город Братск, r. Братск,
+ANGARA ж/р Центральный, ул. Крупской, д. 28
+UID/WHH 3805717195
+Bratsk Contract Ne D-10-24, October, 21 2024
+www.angare-plus.cru
+Beneficiary’ bank JSC ASIAN-PACIFIC BANK, RUSSIA / “Азиатско-Тихоокеанский Банк” (MAO)
+Address: 225, Amurskaya str., Blagoveshchensk / 225, yn. Amypckaa, г. Благовещенск
+Account: 40702840934111000258
+SWIFT: ASANRU8X
+Correspondent Bank: 1. Bank of China, Beijing, China SWIFT: BEKCHCNBJXXX ACCOUNT: 778400001100
+2. First Heartland Jusan Bank, Almaty, Republic of Kazakhstan SWIFT: TSESKZKA
+ACCOUNT: KZ74998AKB0000000518
+Invoice Ne 2b-DN 24.12.2024
+Buyer DIOSON CO.,LTD
+Address 48, Namsanro, Namsa-eup, Cheoin-gu, Yongin-si, Gyeonggi-do, Republic of Korea Ph.: +82 041 415 0617
+Transport Number SKHU9204441, HALUS656760, TCLU8960623, HLHU8380095, SKHU6312627.
+Packaging Packing in 10 kg transparent bags,placed on 0,9-1 ton pallets / Packaging in big bags of 1 ton
+Delivery Terms 、 CFR Port of Busan/Gwangyang, Republic of Korea
+Addendum No2
+Bill of Lading HASLRO1241200093
+я Price per 1
+5 fra i
+6666 НЕВ
+material tons
+USD
+. packet 10 kg
+Conif
+Wood pellets, diameter 6 mm —— / мешок 10 ㅣ 129,400 5 21 998,00
+Kr
+TOTAL 129,400 | ss 21 998,00
+Pe ire
+&,
+- 30% prepayment, within 3 working days from t! oye aes 계 $ 6 599,40
+- 70% within 5 working days after the transfer of, 660969 ag to. the Sata rrier $ 15 398,60
+a cl ie ,0 사 0 ㄷ \ 이
+i epee )8
+62006 908
+'ЙЁ};{›“[_ 00 러 셨 브 비 비 빼 В.В. / Kaschishin У. V.
+ee am уА
+00 3864
+QS
+1970 — свуё

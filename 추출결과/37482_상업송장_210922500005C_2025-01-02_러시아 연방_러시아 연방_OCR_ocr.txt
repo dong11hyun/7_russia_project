@@ -1,0 +1,158 @@
+# 추출 방법: OCR (pytesseract)
+# 원본 파일: 37482_상업송장_210922500005C_2025-01-02_러시아 연방_러시아 연방_OCR.pdf
+# 추출 시간: 2026-02-03T00:26:41.856825
+# 총 문자 수: 4,266자
+# 총 페이지: 3페이지
+============================================================
+
+항
+bay 여 0000 ㅇ (CMBT-cpainypa) N©.. 18 아 22.11.2024 ㅜ .
+na
+npoAaBsg : 000 "Cw*aKcnopT"?
+Айрес 180004, Poccttfl, ricKOBCKayi o/%n., r. ПсКаВ, np-TOKT95pt>cKww, 31°56 Г, о4)мс 209.
+HHH/mn 3812158558/602701001
+orpH H43850047021
+rpy30DTnpaBPtrenb : 000 «TepMHHan» (no nopyyewuo 000 TpaHcnopTHbiM Cepenc), P+, 6G4014, WpKyTCKafl onacib, r.MpKyTCK, Jeppnopniit
+MocrcoTpflA-31, crpoenwe26/5. KHH 3319010832 , Knn 3810D1001. OrPH 1023802143034.
+FloKynaTGiib (“SAMSUNG WOODS CO., LTD»
+CpyaonoLiyyaTenb: SAMSUNG WOODS CO, LIT{t.
+KOHTpakT Ns 18122023 OT 18.12.2023 「
+npwnoxeH'e: N42 OT 13.11.2024
+ycnoBMA nocraBkki: CIF Incheon, Kopetti
+노 Kofl roeapa: 4407149) 701
+cll KOHTGMHep N2 CIPU & 5 19
+뺀 OnwcaHHe TOBapa. Uena TOJ4MOCTB |B TOM] CtommoeT4]
+6 (aa eft. 43m.) Tosapa HMcne csapa ecer<
+08 lecxJMaTeptfanbi c6pesHbae (AockW), nucrBeHHuga, FOOT 260D2-83 copT 1-4, enax(HacTb 16-18% EUR есею  $KLU13]_ c yneToia
+6es Hanora Hanora
+9 побка обрезнай СОРТ!-4 501504006 ма | 390200 | 367 [ tom 08] 0001 — 98
+АОСКа обрезНа?! СОРТ 1~4 5Gx15Qx30Q0 | м3 | 2836 | 367 | 104081] 0,00] 。 1040,81
+100%3 o6pi'jHas COPT 1-4 50x150x3600 | мз | 3402 | 367 1248,i8| 0,00] 1 248,53
+111070: 、 뼈 EK
+Директор: Me Pn ee Искендеров Р.Д. ㅠ
+Boe e= “he Jl. бухгапгер we npeflycMDTpeH
+wri fi. Paso os, .
+" fi о М
+° ЙЙЙ ее 6
+Ahr |
+‚ Hotel щ 시 브
+\4 Zia Ja a
+AS pf
+RE
+di pad К
+® 넬 헤 .
+® j
+빼 й
+fk:
+on
+cB
+3 ;
+Qi
+비
+Q
+ㅠ
+
+i
+Ge VTHs2.¢ fCHeT*SKfypa} № 15 6Т 22.11.2024 с
+5
+ай
+npoflaeeq: 000 "Ci6sKcnopf
+NA>ec 180004, Poccur, ncKoscKan o6n., г. Нсков. flp-i OKm&pbe*l] A. 56 Г, о4)мс 209.
+KHH/xnn 3812158558/602701001
+orpH 1143 23115 047021
+rpy300Tnpaemejib: 000 «TepMMHan» (no nopyqgeHHK) ООО TpaHcnoprHbM “Cepagic), PO. 664014, WpKyTCKaR o6nacTb, r.WpKyrcK, reppnTopun
+MocrooTpaa-31, crpoeHwe 26/5,14HH 3819010832, KRn 381001001, О ГРН 1023302143034.
+noKynaTenb ASAMSUNG WOODS CO.ULTD»
+rpy3onoJiyMarenb «$ AM SUNG WOODS CO., LTD»
+KOHTpakT Ni 18122023 от18.12>2023 г.
+npwiioxemier Ne2oT 13.11.2024
+Ycnoewn nocTaeKM CIF Incheon, Kopepi
+Koa Toeapa: 4037199701
+я KoHTevinep Ns NSSU7115470
+In OnncaHiteTOBapa. Efl. Ut3M. ㅣ <0180 Uena Стокмосв | BTOM }C70MMOC7b|
+Pal (3a efl. M3M4 Tosapa Мгспей oeapa 8cer<
+a flecoMaTepwaribi o5pe3Hbie (AOCKM), JIMCTBeHHuga, "OCT 26002-83 “op | 1-4, BnaxcHOcib 16-18% EUR scero — # КОМЗ{ С yMGTOM
+OD 563 Hanora Hanora
+6 00063 a6p&3Haff COPT 1-4 50x150x4%j00 | мз | 30240 | 367 ㅣ . 11098,08| 0,00) _11098.08
+н IAOGKa обрезнаа COPT 1-4 БОКТ5ОХЗ600 | ›а | 3402 | 307 . | 148.68] 0,00} 1249.53
+AOcks оорезНап СОРТ 1 -4 50x150x3000 Г мз ㅣ 2836 | 307 — | 1 040,81 | 0.00] 。 1040,81
+Tore 7 EZ:
+SS a
+Директор: HS cme НСКЕНАерОВ P.fl.
+f Sr , on x Fn. Gyxfarrrep we npeflycwaipeH
+une fee А &
+З dé’ ei
+이 Ase ay}
+미린 az ЕР
+HA ease JS ft
+@ wed
+네 NT /
+»~ * ae ®,
+Se +
+оз
+덕
+®
+$
+o
+®
+iP
+으
+]
++ н
+이
+Ж№
+nJ
+
+뻔
+…
+일
+й, Мнвонё (Cwr-cl>a lIFypa) hte 17 от 22.11. 2024 г
+npo“sBet}: 000 ‘Cw5akKcnop?"
+"  Aopec 180004, Россмл, ncKOBCKa* o6n., r. IICKOB, пр-Т OKTfIGpbCKMw, 56 ', o<J>uc 209.
+WHHIKTin 3812158558/602701001
+orpH 1143850047021
+груЗоо?праВМТепь : 000 cTepMMHan» (no nopyseHMFo 000 ТраНспорТНЫМ” CepBuc), P0,664014. UpKyTCKas o6flacm>, r.MpKyTCK, Терр^псриа
+MoctopTP!j-31, сгроеНМе 26/5.14HH 3319010172 , Knn 381001001. OrPH 1023802143034.
+noKynarejiB ASAMSUNG WOODS CO., LTD)>
+rpyaononyyaTenb: (SAMSUNG WOODS CO., LTDx>
+KoMTpakT Ns 18122023 от 18.12.2023 г.
+npwnoxeHMe: N920T13J1.2024
+ycnoBtw nocraeKw: CfF Incheon. Kope«
+In Ko 스 Toeapa: 4407199701
+a KoHTefHep bfe SEKU6558420
+E OnncaHHe Tosapa. Kon-BO Ue«a Стонмосту |BTOM |СЮММОСТЬ)
+Ы (За еромЗМ.) ТОВара МспетоВара Bcerc
+cD BecoMaTepwanbi o6pe3Hbie (flocxn),(I»McraeHWiQa.  rOCT 26002-S3 copT 1 +}, anaXHOGTb 16-18% EUR Всего 하 8 야 3] С yMQTOM
+0 6e3 Hanora nanora
+1 |AOCKa oSpe%aR COPT Т«4 50x200x4000 [ м3 | 7200 | 367 . | . 264240| (600| — 264240
+000.05003031. 001154 60505004000 | 빼 | 22000 | 367 — | 7832356 . | — 7632356]
+jae raat eae a | 빼 | 3402 | 367 . | . 120858| | — 1208.52|
+{AOGKa oSpeatian 000114.805009000 | 보 | 4 | 로 그 도 피 께 채리
+나 네 느 태 허 제 333 태 래드 0 ITT, Maes оННЙ ne ee . . |
+UToro: | 3 | 35802 133,33] . | 13139.33|
+ь
+Директор: es see 기 WcKewpoB P. fl.
+기
+<У Ger ы 'Е’”.‘о‘;@‘‹\ ri. byxranrep He npeflycwoTpen
+베 (О
+%, 78 ( 그 나
+oe а@@ )
+Sheek dale
+믹리 Cagis Jaimie >
+병 ‚&0@\\{?’.’‹\/! ㅇ
+` yp
+” А ©
+히 ов —
+<
+J
+|
+4
+Н
+이
+6
+{3
+ыы
+Га
+о
+비
+Q

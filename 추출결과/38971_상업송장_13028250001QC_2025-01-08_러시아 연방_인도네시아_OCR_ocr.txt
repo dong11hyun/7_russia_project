@@ -1,0 +1,89 @@
+# 추출 방법: OCR (pytesseract)
+# 원본 파일: 38971_상업송장_13028250001QC_2025-01-08_러시아 연방_인도네시아_OCR.pdf
+# 추출 시간: 2026-02-03T00:28:30.294136
+# 총 문자 수: 3,495자
+# 총 페이지: 2페이지
+============================================================
+
+INVOICE {th 30123413 dated 08.11.2024
+Contract: PT-PLY 32/11-2024 dated 08.11.2024
+Addend ix: 1 dated 08.11.2024
+Order: 30123413, dated 08.11.2024
+SENT BY
+‘The Seller: " )Consignor: *
+РТ MATAHARI SMART INNOVATIONS PT MATAHARI SMART INNOVATIONS:
+JALAN GUNUNG SOPUTAN 1A, PURI PARTHA LESTARI NOMOR: 2, Denpasar, Bali 80361 JALAN GUNUNG SOPUTAN 1A, PUR! PARTHA LESTARI NOMOR: 2, Denpasar,
+Ns 109 Sisli Bali 80361
+'No 109 Sisli
+SENT TO
+10 Buyer: The Consignee:
+IDIWOOD CO., LTD DIWOOD CO.. LTD
+jouth Korea, Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si ‘South Korea, Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si
+Payment: ‘Advance 100 %
+‘Country of destination: South Korea
+Delivery terms: CIP INCHEON
+ransport: HNKU6084102
+Description of goods
+Commodity code: 4412330000
+Species, Genus (Botanical name) - Betula pendula
+BIRCH PLYWOOD, Exterior, Emission E-1 -
+й Sheets per Brutto
+Full @‹ 1 [ )0 |
+0965 햅햅 0980 па 10~-
+УЕР a at 8d 」 』 | 2 | 2 | 1922 | 셰 | 배 | 196 | в |
+WP BBE 202 S28 rn 6, 07 16 | 2 | в | т | 202 | 뼈 | 때 | 20 |
+WP BRE оЧОО 52 tn 5) [oe [| we [re [ae [ [ora |
+WP BB 2D 820000 1 | [а | в | 22 | зы | 벼 | вю | 204 |
+1001881000 서 020010 52600 대 세 / 、 ® | [ 2 | в | па | 매 | ю | в | аат |
+WP 8 210 TRHT2 525400 — — | | * | 제 | в [ вн | 벼 | н | ь |
+1801881020 서 1220112525400110 — / 이 | = | 2 | ® | ч | 25 | 뼈 | 떠 | оннн |
+неРавв2монахкс 525 . 、 _ | . | 2 | ® | па | 22 | 베 | т . | 1908 |
+11801818229020001.800400717 、 」 () | * | | = | е | 2» | 베 | 제 | 169 |
+WaP BB 24 SES bem 187 [ese | ee | @ | 벼 | ью | 2 |
+п— OO [ [ ов
+| ~ } ==
+Please arrange remittance of the above amount 26130,66 in full, according to terms of the contract.
+Account number: 1450015242288 (USD) °)WOOD CO., LTD
+BANK : PT. BANK MANDIRI (PERSERO) Tbk ‘South Korea, Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si
+Bank Branch : KCP Kerobokan
+Bank Clearing Code : 008-3292 Bank name:
+Bank Address : Jalan Raya Kerobokan No. 104 Kuta Utara 80361 Bank Address:
+Bank Swift code : BMRIIDJA IBAN:
+BIC(SWIFT):
+Correspondent Bank:
+SWIFT:
+
+The Seller:
+PT MATAHARI SMART INNOVATIONS, JALAN GUNUNG SOPUTAN 1A, PURI PARTHA LESTARI
+NOMOR: 2, Denpasar, Bali 80361
+The Shipper:
+PT MATAHARI SMART INNOVATIONS, JALAN GUNUNG SOPUTAN 1A, PURI PARTHA LESTARI
+NOMOR: 2, Denpasar, Bali 80361
+Packing list > 80754788
+SALES ORDER 1
+[ Date: ` _ _ | 25.12.2024 ! — @ _| Ref: 30123413 — _ l
+| The Consignee: DIWOOD CO.LILTD |
+| ‚ Delivery address: | South Korea_ Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si ! |
+Contract | Container no. — | ~ Consignor | ㅅ Delivery terms — |
+PT-PLY 32/11-2024 dd | | — : |
+VYATSKY PLYWOOD
+08.11.2024 HNKU6084102 MILL LLC CIP INCHEON |
+COMMODITY: PLYWOOD
+SALES ORDER 1
+PACKING: EXPORT PACKING
+| 、 레 . . . . . . | Sheets per | ~~ ~
+| — SPECIFICATION . pack  | Packs | 덮햅챔"채대,뺀킨 | | Gress Weight, kg |
+WBP B/BB 2440x1220x4 525 400mm 100 | 100 2 2,38 | 1762 |
+| WBP B/BB 2440x1220x6 525 400mm 65 65 2 2,32 | 1720
+WBP BB/BB 2440x1220x6 S2S 400mm 65 65 2 | 2,32 | 1720
+| — 36660 — | == |
+WBP B/BB 2440x1220x9 S2S 400mm 44 44 3 3,54 2 622
+WBP BB/BB 2440x1220x9 S2S 400mm 44 44 2 2,36 1748 |
+| WBP B/BB 2440x1220x12 525 400mm 33 33 | 8 9,44 6 992
+—— Salient es = | = —
+WBP BB/BB 2440x1220x12 S2S 400mm 33 33 | 2 2,36 1748 |
+WBP B/BB 2440x1220x15 525 400mm 26 | 26 2 2,32 1720
+WBP B/BB 2440x1220x21 S2S 400mm 19 19 2 | 2,38 1762
+WBP B/BB 2440x1220x24 S2S 400mm 16 | 16 | 3 3,42 2 538 |
+TOTAL: ° 28 [_ 32,84 24 332 |
+Total Gross Weight: 24 382 kg ㅇ - ~ 22

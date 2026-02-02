@@ -1,0 +1,733 @@
+# 추출 방법: OCR (pytesseract)
+# 원본 파일: 38789_상업송장_242572500009C_2025-01-07_러시아 연방_아랍에미리트 연합_OCR.pdf
+# 추출 시간: 2026-02-03T00:28:23.459999
+# 총 문자 수: 44,259자
+# 총 페이지: 14페이지
+============================================================
+
+\ 《 / $ Е В GENERAL TRADING LLC.
+> 저바 017
+ne ee et 니 Ы
+ㅅ Dubai, UAE
++971553188977
+SFB TRADING mail@stbstading 20
+PROFORMA-INVOICE No. 50361235
+To (Customer Name):
+BNKCo., Ltd. Invoice date: 10.10.2024
+9980
+Address: 1001, 60 Centum buk-daero, Haeundae-gu, Busan, Republic of Korea `
+Destination country: The Republic Of Korea
+Product specification :BIRCH PLYWOOD, GASNO96, Goods code 4412330000
+| 때 | 메 | roma | 에 fat] 이 | 해 | "ar | 매 оее fren] ve | нн Jorn YP] 메 [omer
+cm
+| 에 | х | 바 [а [ к | 9 | 페이 세 | ! | 9 [1 я | 매 [ ее | н — [а е
+| 에 ВО НЫга -- ОСВ ВЕ | 개 | 그 НЕС | 1제 СЕС ВО СО 3 НОЙ Е 2
+Truck: E7070P69/BY941078,, Container: ТР 04813738 ICMR:
+МЕГЕ ee ee ее ее ечр
+| 에 НЕ НЫа -- ОСВ ВЕ | 개 ЕС ВЕС НЕ СЕ ВЕС СО СЕС . | 10 2
+е
+е
+| 에 | х | 무 [а [ ® | 9 | 며 | 내 | ® | 2 [eel нна | 1 fom] me [ae е
+| 에 ] … | 무 -- О ] 9 ] 제이 메 | 으 НЕС С ВЕСЕ СС С СЕС Е Е2
+대
+| 에 | ＊ | [oe | 레 | 메 | 에 | 새퍼 ЕС ВЕС | 메 С НЕС [a fr]
+ca
+е
+| 에 | ＊ | 부 -- ОВ | 세 ВЕ ЕЕ ВЕН ВЕ С ВЕН | 7 mem] СС | 10 fron]
+ca
+ce [ х [ " [а [ ! [ [ [1 [ ! [ [1 я [ [ я [а ]
+е
+| 에 | х Pa ae | = [ = | 메 [ ® [ae [rem че [ie н] cae [а е
+| 에 НО | 룰 -- ОВ ВЕС ВЕ - ВОН ЕС КЕС ВС СС Е2 | . 때 Е (
+е
+Pe ПСА (eee [l= ВС С ВЕС fool ee С НВ ЕЙ 2
+| 에 НО eee ee ВЕ В 니 ] 메 К- ОННЕ С КЕ СЕС Е --
+
+Truck: P497PA47/BK458678,, Container: ‘rFLU4927978 (CMR:
+| 에 [ х a od
+| 에 | ＊ | 불 [ [ е | 떼 | 에 | 의 | 6어 [1 [ 비 он —нг в
+‘8X4, full, NOS
+A | СС СС ВС СС Е НЕС Е (
+fem [ [ [ е [ О |
+Bank details:
+Beneficiary Name ISFB GENERAL TRADING LLC
+|Beneficiary's bank: URKIYE EMLAK KATILIM BANKASI A.S.
+Beneficiary Account No.(IBAN): ITR56 0021 1000 0006 7854 8001 02
+Beneficiary bank SWIFT: EMLATRIS
+EUR
+Correspondent bank: RAIFFEISEN BANK INTERNATIONAL
+|Correspondent bank SWIFT: RZBAATWW
+Your payment order should contain the following description: "PAYMENT UNDER Invoice 50361235"
+ALL bank charges are for your account!
+The payment to be received at the latest by 22.10.2024
+오 24592
+oe AP
+* Gy ©
+. “cen,
+Best regart К ise No, &
+SFB GENERAL TRA pycti20 >
+2 Mba oY
+. /
+a \' УЕ / о
+GU 7 ф
+R, ©
+AL TRAD
+
+[ 때 [. _ч [ ее — [ч [Э [ [ Нч | 예져 [ РЕ | я — [ ]
+[ 메 | х [ вилязя овю | . 의 [ #в [ н | ат | овн | . 베 . | ою [ вю |
+
+[ 메 | х | 때 세 때 fewessweme | 9 . | ® [ н | зн | оан [mee | я |
+
+[ 메 х | 떼 시매 |виовислю | . 의 . | 매 | 25 | ат | т | . 배 | аюю | вю |
+
+[ [ х [ 6еча is fencss wens . | . ㅠ [ee [ema [ | оао [ ннн |
+
+| 2 | ＊ | 6еча внонисе | ® . | ю | 05 | зч | ая | 배 . | еа | . 10 |
+
+[ 메 | ＊ | 6еа мее | . 의 . | 셰 . | [ ат | ю | . 배 . | а | . |
+
+[ 떼 | х [ 떼 시매 |вовислю | . 의 . | вю [ 25 | т | 세 | . 배 | аюю | аюя |
+
+[ 메 | [eames fenose wens . | . 의 . | 애 . | 새 [ т [sere [mee | вю |
+
+| 메 | х | 떼 시매 вмонисе | . 의 . | 예 | 새 | т | овн | . | аю | вн . |
+
+[ 메 | х [ 떼 시매 [ 대 데 벼 . | . 의 . | 새 | н | ат | ва | 배 . | аюю | . 022 |
+a | . 의 . | . 때 . | 애 | нн | 190 | [ нн | ) ,
+[ 메 х 떼 시매 [ 왜 데 벼 제 . | . 의 . | 패 . | н | ат [ овн | . | аюа | ое |
+
+[ 2 | ＊ | 때 세 때 . -- . | . ㅠ . | 매 . | 새 | 내 2 | 이띄 | 배 . НЕС | . 2시 |
+
+| 메 | ＊ | 때 세 때 lewoseweme | . ㅠ . | . 애 [eee [me | анн | . 배 . | а | . 10 |
+a | . 의 . | 매 . | [ 내 | 세 | 배 | на | 메져 |
+
+[ 메 | х [ 떼 시매 овю . | . 의 . | 새 | н | ат | оя | . 배 . | аюю | в |
+
+[ 메 | х | 때 세 빼 fewoseweme [ 9 [as | 8 [ т [ оат [ [а [ в |
+
+| 메 х | 떼 세 메 Цвовисе . | . 의 . | «н | н [ ат [ на | . 배 . | оа | ннн |
+a | . 의 . | 새 | 예 | 새 | на | . 배 . | а | ннн |
+a | . 의 . | н [ | т | оо | н . | аю | . 922 |
+
+[ 메 | х | 떼 시매 |овивне | . 의 . | 매 | н | 새 | 예이 | | аю [а |
+
+[ 2 | х | 베 [ 대 0000 재 이 . | . 의 . | ю | в | н | вн | . | 16000 | ал |
+
+[ 메 [x | eanmeslewoseweme | . ㅁ . | ю . | 왜 . | ve [ вн | 배 . | 106000 | нн . |
+
+[ 메 | [enemas lowoss wom | . 12 [as . | [ ат [oa | 베 | овю | ose |
+a | ю [ . | ат | н | . | 106600 | ала |
+a | . 1 ㅁ ㅋ . | ю 1 | в | 사티 | 69 | . [ 19600 | ва ала
+a | в [ ю . | 매 | 시이 | 6 | 배 . | 106000 | н |
+
+[ 떼 х | 이비 [000000 재 이 . | . 12 | 며 . | 페 | нн [ от | . | ов | ов |
+a | н . | . 세 . | . 애 | н | 아 | . | 106600 |  200 피 |
+a | . 12 . | н | 면 | т | 9 | . 채 . | 106000 | вю . |
+
+[ 떼 | х | 니 [00000 재 이 . | . ㅎ . | 패 [ . | нн [ 파 | . | о | ля |
+
+| 메 | ＊ | 셰 세 떼 енониене | в . | . 때 [ | нн [ нг | . | пна | нна |
+a | —в . | 2 . | 에 | т | оя | . 배 | аю | 페과 | 00
+[ 메 | ＊ | ачача емонисе . | в . | . 에. | о[ н | 9 . | . на | НВ |
+
+[ 메 | х | 빼 세 때 вмониене [ . ㅎ . | 29 . | 매 | 내 | т | 배 | на | я |
+
+[ 메 | х | вна вовисне | в . | . 패 . | в [ з [ 미 | . 배 на | вю |
+Г _ ㅣ . | | | | Г Г Г 3%
+
+SSN oN Z SFB GENERAL TRADING LLC.
+Registered address: Office P2TM-A08, Building
+=S EE Za WHP2-BLOCK-T COMMERCIAL, Saih Shuaib 3,
+с Dubai, UAE
+° рн ~ +971553188977
+SF B TRAD | N G mail@sfb-trading.ae
+PACKING LIST
+Invoice No. 50361235
+BNK Co., Ltd. Invoice date 10.10.2024
+1000695056, 1000695076,
+1000695115, 1000695091,
+ae 1000695093, 1000695116,
+B/L Number Customs invoice 1000695132, 1000695139,
+1000695136, 1000695137,
+1000695196
+VESSEL REF: 50361235
+Terms of delivery: CIF Costs, insurance & {ieight Busan GAS
+Destination country: The Republic Of Korea
+GTT CERTIFICATE
+Origin: Russia, St. Petersburg
+BIRCH PLYWOOD, GASNOS96, Goods code 4412330000
+Thickness, Sheets | Length, Quant., | Centiare, Production
+mm 비 mm m3 m2 date
+pack
+Truck: H460XP198/BP067578, , Container: TFLU4820470 CMR Ne.:
+4096
+4096
+Truck: E707OP69/BY941078, .00081078[: TFLU4813738 CMR Ne.:
+4096
+4096
+4096
+4096
+Truck: B185PC98/HE899453, , Container: TFLU4932090 CMR Ne.:
+4096
+4096
+Truck: C479KH198/BK383478, , Container: FYCU1072373 CMR Ne.:
+4096
+4096
+Truck: K214MM53/HK522753, , Container: TFLU4840435 CMR Ne.:
+GNOg6
+4096
+4096
+Truck: B901TC198/BC605978, , Container: TFLU4812515 CMR Ne.:
+4096
+4096
+Truck: Y222PH178/EA219778, , Container: TFLU4855292 CMR Ne.:
+4096
+4096
+
+GNO96
+GNO96
+Truck: H321PK198/BT072378, , Container: SEGU6553450 CMR Ne.:
+GNO96
+GNO96
+GNO96
+GNO96
+Truck: O348XE116/BK458578, , Container: TFLU4873260 CMR Ne.:
+GNO96
+GNO96
+GNO96
+GNO96
+Truck: T538AP198/AX958578, , Container: TFLU4916612 CMR Ne.:
+GNO96
+GNO96
+GNO96
+GNO96
+‘Truck: P497PA47/BK458678, , Container: TFLU4927978 CMR Ne.:
+GNO96
+GNO96
+GNO96
+GNO96
+GNO96
+= P= [ee [eae
+Date of shipment 07.11.2024
+Net weight, kg 262061 ]
+Gross weight, kg 283 887
+All packaging materials, fastening and separating arrangements are the integral part of the goods and are not suitable for commercial purposes
+The solid wood packing materials in this shipment are totally free of bark and apparently free from live plant pests
+% Adal) 57
+LI aD
+성 *
+в “een,
+“ 113498 No, &
+ㄱ °“Ьв1 38g /
+o ry - .
+AN aes
+&* \\/ -
+% У
+ray ney
+TRAD
+
+: |
+Й
+га°
+펀 SALES CONTRACT / НОГОВОР nOCTABKM
+ㅣ EXP-261
+| 06.02.2024
+Plywood Systeips, ID, organized and existing under the laws}OOO &rina%Byfl CwcTeMC) >, co3flaHHoe м Ae“cTByioinee Bi
+Г Russian Federatioil] hereinafter referred to as “the Seller’”,}eooTBeTCTBMM с 3aKOHaMM Рбоссм\ской WeflepadMM, WMeHpeMOe В
+represented by CEO} Gennadii Sokolov, acting pursuant to 11 AanbHeMLueM «npoAaBeLp>, 8 nwne reHepanbHoro AwpeKTopal
+Charter, on the ne hej, freHwaAWfl CoKonoea, Ae*CTByioinero Ha OCHOB3HWW YcTaBa, @
+pot }OfIHO%) СТОРОНМ,
+and 5 Е В СЕМЕКА^ |ТКА[)П\ТС LLC, established in accordance)w 5 F В GENERAL TRADING LLC, coaflaHHafl в COOTBGTCTBMW @
+ith UAE legislation,’ hereinafter referred to as "the Buyer”, | |}38aKOHOAaTenbCTBOM OAE, в AdnbHewiliew UMenyeMafl «noKyyaTenb»,
+represented by nianat SEYHUN HUSEYNOV. acting pursuant #B nnge AMpeKTopa CEI*XYH OyC£JHOB, AeftcTsytouiero Hai
+(Commercial liegenseothe other hand, |OCHOBaHMW HMUeH3WM, C ПругОМ СТОРОНЫ,,.
+ave concludes) the; present Sales Contract (hereafter - the [8aKnK)Mknn HacTomuH&) floroBOp nocTaBKM (flanee - JJoroBop)}o
+[1 Subject of te Соне tee RoroBope —
+1,1. The Seller‘is to S@ find the Buyer is to buy and to pay the ]1.1. npOAaBeu o6R3yeTC« nepeflaTb, a floxynaTenb - npMHATb w
+Goods in quantity, sp%cation and on the terms and conditions JonnaTUTb Tosap 8 KonnMecTBe, cneqncpMKaLiMRx w Ha ycnoswwx,
+애
+| |
+Guay ofthe Gomis . . . Боезесотен —
+2.1. Quality of the {0005 shall be according to the 1.60080102 삐 2.1. KaMecTBO ToBapoe AODJKHO cooTBeTcreoBaTb TexHKMecKMM
+Sonditions, sang by the Producer of the Goods. cnoBMAM, ycTanoejieHHbiM npOM38BOAMTeneM Toeapa.
+i
+2.2. The Buyer “nalljiaccept the Goods in quantity and in qualityJ2.2. OoKynaTenb Aon>KeH npHHRTb ToBapbi no KonnMeciBy м
+in day of delivery of t#Goods. КапесТВу в А©Ндоставки ToBapoa.
+2.3. Ifa shortage or ‘@idemal damage (damage) of the Goods is}2.3. В cnyMae ecnn npw Bbirpy3Ke Tosapa SyfleT obHapyxeHa’
+detected during | he “iJpading of the Goods, then HeflOCTana KDM BHeuiHee noBpe)«AeHMe (nopna) ToBapa, TO
+- when transporting Gods by sea (water) transport - the Buyer}- npw nepeeo3Ke ToBapa MOPCKMM (BOAHbiM) TpancnopTOM —
+or a person authorise Н` by the Buyer to receive the cargo shallifllokynaTenb wnw nwuo, ynonHOMOUeHHoe rioKynaTeneM Ha
+require the canier | to provide a commercial act or other e(nonyneHwe rpy3a, & OJIXCHO поТребоВаТЬ у переВОЗММКа
+document certifying 00613 아 in accordance with the rules existing{npeAocTaBneHHe КОММерпесКого аКТа млм WHoro AOKyMeH'h,
+in this port; ] i “ocTOBepjuouiero flaHHbiw 4)aKT в COOTB6TCTBMH С npaawnaMMI,
+|- when transporting D road (motor vehicle) - The Buyer or thesjeyiMecTByiOLUHMM в ABHHOM nopry:
+person authorized by fHe Buyer to receive the cargo shall refle@}-npw nepesoaxe asTOMobwibHbiM TpaHcnopTOM - DoxynaTenbimw
+his fact in a 에 6018] jact, which must be signed by the carrier, ,Jnwi4o, ynonHOMOMeHHoe riokynaTeneM «a nonyneHMe груЗа,
+and in all copies of tht CMR. AonxHo OTpa3WTb AEIHHWM 4)aKT в cneuHanbHOM arre, KOTOpb}w
+— when transporting, ‚ гай transport - the Buyer ог a person @jAon)<eH SbiTb no/viMcaH nepeBO34MKOM, М BO scex 3K3eMrui»p4x
+lauthorized by the Buyer to receive the cargo shall require the #{CMR.
+carrier to provide a apimerdal act. If the carrier refuses to draw}- npn nepeso3Ke Mene3HOAOpo>KHbiM TpaHcnopTOM - HoKynafenb
+op a commercial act.@rj issue a commercial act in Violation of та JIMUO, ynojiHOMoqeHHoe rioxynaTeneM Ha nonyneHue rpy3a
+established reqiiirerndls, the Buyer or the person authorized by#AOHXHO noTpeSoBaTb у перееоЗММКа npeflOCTaBneHwe
+he Buyer to recels s the Goods is obliged to submit an WKOMMepMecKoro aicra. 8 cnyMae OTKa3a переВОЗчЧу OT)
+application to ihe -р irrier in writing in accordance with the [сосгаапеНМА — КОММерМесКого aicra wnw  o<t)opMneHMfil
+established procedure ы КОММерпесКого асга с HapytueHHeM ycraHOBneHHbix ТреОоВаНай,
+In the absence of thi -act and/or statement, the Seller has (0 Муо, упойНОМочЧеННое noxynaTejieM Ha nonyMeHMe ТоВара,
+right not to satisfy th Buyer's claims on the quantity and qualitwjo6fl3aHO в ycTaHOBneHHOM  nop«flice по^аТЬ 3a«BneHwe
+lof the delivered -G@dds that may have arisen during the ЧпереВОЗММ<у В nncbMeHHoft 4)opMe.
+transportation of the pods. В cnyMae oTcyrcTBM%) aaHHoro aicra М/ЛМ aasBJieHwsi, HpoflaBeu
+£ jf: ВораВе He yAOBneTBOpRTb npeTGH3MM НоКупаТепп no KOJMYGCTBy
+( | w KanecTBy nocTaBneHHoro Tosapa, KOTopbie Mornw ВОЗН\УУКЩУгЬ В
+: i Inpouecce nepeBO3KH ToBapa.
+3 1
+, |
+2.4. The claims, in sn@rtage and/or external damage can be 12.4. npeTeH3HH OTHOCMTenbHO HeflocraMM м/млм BHCIJUHUXY
+claimed by the BuyeJéuring 60 (sixty) calendar days after noBpex*eHwW ToBapa Могуг 6wTb npeAbflBneHH поКупаТепеМ В
+transfer of ownershi) ) the Goods. 'TeHQHwe 60 (mecTb*ecRT) KaneHflapHbix AHSM с MOMeHTa
+} | 겨 nepexofla npaBa coGcraeHHocTM na TOBap K noKynaTenio.
+fi
+|
+An. id
+tt lx:
+le а| "
+mth
+|
+
+|
+i
+|
+12.5. The claims on auatity, which can be checked in process off2-5. FlpeTeH3MM no KanecTBy, KOTopbie Moryr ObiTb Bbi*BnéHbi
+fusing of the Goods Onty (latent defects), can be applied by the/TontKo В xofle wenonb30BaHws) ToBapa (CKpbiTbie sJeteKTw), |Moryr
+Buyer not later than ? (six) month after transfer of ownership to/6biTb 3aABneHbi noxynaTeneM HO no3A<ee 6 (mecTb) MecnyeB @
+№е Goods. | МОМеНТа nepexofla npaBa coScTBeHHOCTW Ha ToBap KI
+! hoxynaTenio.
+12.6. In case the Seller admits that quaiity of the Goods does по2.6. В cnynae ecnw FlpoflaBeu npM3HaeT, UTO КаЧесТВо ТоВарфе
+eet the Technical Cdnditions through the fault of the Seller ог1Не cooTBeTCTByeT TexHHMecxwM ycnoBMRM no BMHe npoflaqua HDM
+the Producer, the Sejksr ; shall reimburse to the Buyer only dirfepon3BOAWTens, npoAaseu BO3MeiuaeT noKynareriK) npawowW
+Idocumented damage” \(losses, harm, cost difference, other{AOKyweHTanbHo noATBep>KAeHHbi* ymepO (noiepw, yinepb,
+similar costs). Indir@f damages (losses of profit, losses offpa3HMay в CrowMocTM, MHbie аНапогММНЫе pacxo“bi). В нюбой
+margin, other sifniiar@#sts) can’t be claimed by the Buyer, as |спуМае HWK3KMe KOCBeHHbie ySbiTKH (ynymeHHan ВЫго^а,
+ell as losses of thej Вауег are limited to the value of the batekYmoTep«HHbfw floxofl, MHbie aHanorwuHbie QWf£lbi расхо^ОВ)
+of the Goods that ‘afused such losses. Claims for quantity,/BO3MeLyeHMK)He noflne>KaT, a y6biTKM noKynaTenn, поАпехоВи^пе
+specification, art oth¢ related to the delivery are solved under 4 QMneHcauuiM, orpaHHHMMBatoTca cronMOCTbio napTww ТоВайа, M3-
+similar procedure. 3 oo, 、 、 8 За KOTOpdw BO3HMKJ1M TaKMe ySbiTKw. В aHanorwMHOM поф0АКе
+Payment of the Buy“rs ciaims is made by the Seiler within 10 lyperynwpyioTCfl npeTeH3un no KonnMecTBy, HOMeHKnarype M#MHbie
+orking days from th e moment the Seller makes a positive mpeT6H3MM CBW3alHHbie С nOCTaBKOW.
+7-~ regarding thi sluyer's claim. (OnnaTa npeieH3MM noKynaTenw npOM3BO4MTCx) npoflaBuoM Bi
+! | ‘TeneHMe 10 рабочмх ПНе\ с MOMeHTa npHHRTMII прозаВчом!
+| i nonoxwTenbHoro решеНМА в OTHomeHnvi npeTeH3nn rioKynaTpnR,
+ㅣ
+2.7. If the Buyer will |Бауе a claim on quality or quantity, The 42.7. ECJIM noxynaienb 6yfleT UMeTb npeTeH3«w no KonwHecrs
+[Buyer shall inform tri@Seller immediately to e-mail export@plwywnw KanecTBy ToBapoB, OoKynaTenb 06«3aH 06 STOM сообиу ТЬ
+systems.com within’ | 3 (three) days from the date of Dpo4ttiBuy no апеКТроННОМ noMTe export@plw~systems.com 뼈
+idefect/damage Oetec Ｌ (TeneHMe 3 (Tpw) #Hew с AaTbi o6HapyxeHM5i А©()еКТа.
+|
+12.8. The claim is пр acceptable in the absence of the above 2.8. 3a»BneHvie 0 npeTeH3WM AOH)KHO coflepxaTb поАроОмое!
+proving documents ) and photos. The claim shall contain a ifon*caHHe cyrn npeTeHdMM, KanbKyji*qMK) cyMMbi преТензмМ в
+detailed description Gfthe essence of the claim, claim calculation/Banrore “oroBopa, a Tax>Ke nenaTb м noAnwcb ynonHOMOMeHHpro
+in the currency pf tlig Contract and the stamp and signature offmnua noKynaienR. К npeTeH3MM AonxHbi SbiTb npMnoxeHbij
+the Buyers entitled p¢rse -~:on. The Buyer shall supply photosis;OTOMaTepwanbi, neTKO noKa3biBaioiuMe noBpejKfleHM™lqe:éKT
+clearly showing the “#*maig/defect of the Goods, the label of theffosapa, aTMKeTicy cooTBeTCTByiounéM na Ч KM, a ТаЮКе
+lcorresponding pack, | as well as documentationsupporting the{AQKyMeHTauMR в o60cHOBaHMe cyMMbi Зайвленных TpeOoBhHWH.
+claim calculatioh. In! fle absence of photographic materials and в OTcyTCTBMe 4>0TOMaTepwanoB м noATBepxAa™wx AOKyMeHTOB
+supporting 여 cu че ii its, claims are not accepted forjnpeTeH3ww К paccMOTpeHkto He npwHMMak>TCA.
+leconsideration, { ! 2.8.1. В OTHOLUeHMM npeT8H3MM, CBfl3aHHbIX С ОК5ЗаННеМ
+2.8.1. In respitit ice related to the provision of logistics{norMcrwMecKMX yenyr no AocTaBKe Toeapa flokynaTenb npwi
+services for the del ry of Goods, the Buyer shall additionally InpeAb*BneHHM npeTeH3HW AonxceH donofiHumenbHO npunoxMyb
+ttach the folloWwingtii cuments when making a claim: IcneAyramwe AOKyMeHTbi:
+copies of shining j@ocuments, of bills of lading or of the CMR,|- KonwM TpaHcnopTHbix HaxnaflHbix, KOHOcaMeHTOB wnw CMR,
+ommercial act’; ‘i specifications approved by the Seller; }KOMMepnecKKH skT, a Таюпе спеификми, yTBepx*eHHbix!
+scan of the invoicethd certificate of completion for the carriag@hpo*aBUOM ;
+fof the Goods (appliqe | e to FCA conditions); — CKSH сдеТа М асга BbinonHeHHwx рабоТ За nep©BO3Ky AaHH@ro
+scan of the contract with the description of penalties from thetfrpysa (npMMeHWMo к ycnoBMAM FCA);
+ransport company (qricable to the FCA); — cxaH AoroBopa с onwcaHMeM unpa4)Hbix caHKUMM о
+Г scan of the invoic™/hr payment of a penalty for an idle time offfpaHcnopTHOM KOMnaHHM (npwMeHMMo к ycnoBWHM FCA);
+transport from the trhisport company to the Buyer (applicable to}- схаН cneTa wa onnary inTpacfja aa npocToft SBTO 0
+the terms of FCA); : TpancnopTHOs) KOMnaHMM в аЙрес floicynaTenA (npuMeHMMOg
+list of period cif idl€ 1 ime/bill of lading with marks of arrival @fytgoBWAM FCA);
+ransport to the wr house from the Seller (applicable to FCA¥- нуст npocTon/TpaHcnopTHaq HaKnaflHas с OTMeciKaMW
+onditions), : ] 지 i InpviGbiTUM aBTo Ha CKnaA co cTopoHbi npogaBua (np MMeHWMb к
+1 아 cnoBWAM FCA).
+|
+|
+ae
+|
+|
+1
+!
+
+|
+2.9. The Buyer me to keep the claimed Goods until he 2.9. riokynaTenb obaayeTCR coxpaHMTb Toeap, В OTHOLueHMM
+receives the Seller’s: decision. If the Buyer fails to fulfill this]/KOToporo 3a%jsneHa npeTeH3M«, ло Tex nop, noxa He nonysiiT
+obligation, the Seller has the right to refuse to satisfy the claim. |решеНуе про^аВча. В спудае HencnonHeHMfI riokynaTeneM 4
+| flaHHoh 06R33HHOcTM, npoflaBeq В npase OTKa3aTb В '
+: ] lyAOBJieTBopeHMM npeTeH3MM.
+boner та [OS
+3.1.Delivery period se Tbe specified in Addendums. 3.1. nepwoA nocTasKM yKaabiBaeTCR В npunoxeHMilx.
+3.2. The Seller has 0 Nght to extend the delivery period without}3.2. nepwoA nocraBKW MOJKCT kbiTfa npoAnen про^аВчом 669
+jany additional written approval from the Buyer. In case of motor}flononHMTenbHoro nncbMeHHoro cornacoBaHMA с похупаТепеМ В
+vehicles delivery the}elivery period could be prolonged for noJenyqae nocTaBKM aBTOTpancnopTOM он мохст ObiTb npo/yieH"he
+more than 14 (fourtee ‚ calendar days. In case of railway and/or|6onee, HGM Ha 14 (MeTbipHafluaTb) KaneHAapHbix whew. 8 000986
+imarine transport ; dekive ry the delivery period could be prolonge@CTaBKM >Kene3HOAOpO>KHbIM W/MDM MOpCKWM TpaHCndGpTOM OH
+for no more than: 30 tity) calendar days. IMOXGT 6biTb npoftneH He 6onee, ЧеМ Ha 30 (TpwAuaTb)
+The prices agreed sh ‘apply for the extended delivery period. |КапеНАарНЫх AHew.
+는 아 Ha nepwojq npcwieHM« Flepnofla nocraBKW_ npoflonxoiOT
+i AeWcTBOBarb cornacoBaHHbie qeHbi.
+3.3. The Goods are'sipplied in accordance with INCOTERMS}8.3. ТоВар nocTaenneTCfl Ha ycnoBvwx HHKOTEPMC 2020,
+12020, which specified rir Addendums. K83aHHbix B npunoxeHWRx.
+The delivery shall be fimsidered completed at the moment of thefriocraBKa c'4}MTaeTCfl coBepilieHHOe в MOMGHT, Ког^а npoflaseq
+Seller's fulfillment of the obligation to deliver the Goods inJMCnODHMn C80K) OG733HHOCTb nOCTaBMTb ТОВар В СООТВеТСТВММ с
+accordance with the ! ] terms of the appropriate basis of flycnoBMRMW cooTBeTCTBytomero 6a3Mca MHKOTEPMC 2020.
+INCOTERMS 2020. ㅣ [
+3.4, Ownership : of Goods transfer to the Buyer at thef3.4. npaBO coGciBeHHOCTH wa Toeap перехоА^Т К noKynaTeniq В
+oment of transfer of е risks of accidental loss and damage to#MOMGHT nepexofla РМСКОВ сп@йн@йепо vW noBpexAeHWil
+he Goods to th4 Buyef under the terms of INCOTERMS. Unlessy¥ToBapa К noKynaTenio В cooTseTGTBMM с ycnoBUHMM
+lotherwise provided irjtle Addendum. IHHKOTEPMC. Ecnw MHoe He npeflycMOTpeHO в npMnoxeHWM,
+5. Delivery wn be agreed by the Parties in the 43.5. ycnoBMR nocrasKM Tosapa cornacosbiBaiOTCfl СТороНаММ В
+correspondent Addepgeum. ICOOTB6TCTByK)LU6M npMHO>KeHMH.
+(3.6. In case of idle jime of transport occurred with fault of theJ3.6. В спупае просТо^ TpaHcnopTHoro cpeACTBa no BWHe
+Buyer and/or a perso engaged by the Buyer over the yrioicynaTenR — и/мли  npWBiie) eHHoro ММ nwua СВерх
+lestablished temj, th+ {Seller has the right to claim damages. ForfycraHOBneHHoro сроха npoflaeeM enpaBe Tpe6oBaTb BO3MeLuqHMx)
+he purposes of this 헤 ause, the amount of losses caused by thefy6biTKoe. Pa3Mep y6biTxoB, BOSHMKIUMX no BMHe rioKynaTenn /nnw
+ашг of the Buyer an га person engaged by the Buyer shall befmpHsneHeHHoro MM nnua, AH%) Чепей HacronuAero пуНКТа
+tdetermined by the inyices issued by the carrier (forwarder). fonpeflenfleTcn no cneTaM, BHCTaeneHHbiM nepeBO3MWKOM
+i | ((KcneAHTopoM).
+3.7. In the event the export of the import license is required for|8.7. O6H3aTenbCTBa no npno6peTeHwio SKcnopTHbix w MMnopPHbix
+feither the Buyer dr | the Seller according to their nationaljnc}4eH3MH, ecnw TaKoawe HeoSxoflIMMbi для про^аВМа wnw
+legislation and/or IND 3TERMS 2020 delivery term agreed in thepnoKynaTenfl B cooTBeTCTBMM с HauMOHanbHHM)
+Addendum, the Buyer the Seller respectively are responsiblegjsaKOHOAaTenbCTBOM М cornacHO onpeaeneHHOMy В npwno>KqHWM
+for receiving such license and the relevant expenses. 6a3hcy nocraBKW в COOTBSTCTBUM с HHKOTEPMC 2020, w
+: | BaTpaTbi, CB»3aHHbie с wx nonyMeHweM, BOS8narai0TC5i Hai
+| hpoAasua H HoKynaTerifl cooTBeTcraeHHO.
+]
+{
+|
+i 4
+|
+: |
+|
+|
+i
+1
+{
+i
+id
+Ш
+|
+
+]
+3.8. Seller is | liability to the Buyer, and the Buyer is{8.8. flpoflaBeu ocBoSowaeTcn OT oTBeTCTBeHHociM 106060
+mot entitled to: : | inoKynaieneM, a riokynaTenb He BnpaBe:
+|- make liability claims ‘against the Seller, as well as claims for}- npeA*«Bn«Tb npoAaeuy TpeGoaaHMfl 06 oTBeTCTBeHHocTw,t
+jcompensation for exj wnses and/or lost profits incurred by the]paeHO Tpe6oBaHWfl о KOMnewcaunn noHeceHHbix FloKynaTeneM
+Buyer, for delivery с> “Goods outside of the Delivery periodpacxoflOB м (nnw) ynyiueHHOM Bbiro*w, За nocTaBKy ToBapa З#
+(hereinafter referred bas a violation of the Delivery period), anqnpeAenaMM cpoxa riepuoAa nocTaBKM (flanee - HapyujeHMael
+|-reject the Goods, 、 Inepwofla nocTaBKM), м
+if violation of Deliveryjperiod occurred due to failure to perform|-OTKa3biBaTbca от ToBapa,
+ithe carrier's obligation} to deliver and (or) transport the Goods}jecnw HapyiueHKe flepwofla nocTaBKW промЗощпо В CBH3M
+within the stipulated tsfm, provided by the regulations governing]HeucnonweHweM 06«3aHHOCTM переВОЗММКа no cflage М (ч )
+he delivery of goods)¥ the carrier. InepeBO3Ke rpy3a В ycTaHOBneHHbiii cpox, npeflycMOTpeHHOW
+If the Buyer rejects 19 } е Goods for the reason set forth in this] HopMaTMBHbiMvi aKiaMU, perynwpyiOLUWMM AOCTaBky грузфВ
+|paragraph, the Виуе! 5 а! compensate the Seller for any losses|nepeBO3MWKOM.
+Incurred in connectiorjwith the rejection of the Goods, including,}B cnynae ОТКаЗа noKynarens OT ToBapa no ocHOBawMio.
+but not limited to, 디 ransportation costs, lost profits, fines, {yKaaaHHOMy B н5стох)Чем nyHKTe, riokynaTenb KOMneHCMpypr
+penalties. io "IpoflaBuy ntoGbie y6biTKM, BO3HMKuwe в CB«3H с oTKaaoM от
+i ! 'ГоВара, В TOM Unene, HO He orpaHMMMBaflCb, TpawcnopTHbie
+pacxoAbi, ynymeHHyro Bbirofly, ujTpac“bi, HeyeTOWKH.
+Й. Тетоз of payment [° Убновыаотаты — |
+4.2. Total valuer of t ) Contract is about 10 000 000 (ten million4.2. O6tyaR cyMMa HacTOjnnero floroeopa cocTaenReT 10 000 040
+IEURO with no Виуег*$ dbligation to purchase the Goods for thelfétet<ib MwnnwoHOB) EBpo 6e3 oSnaarejibCTBa co CTopowbii
+f ils loroBopa.
+4.3.100% post-paym(|nt from the date of transfer of the proper#4.3. 100% nocTonnaTa OT flaTbi nepexoAa праВа coOcTeeHHocTw.
+right. i } | 100% (CTO npoueHTOB) CTOMMOCTM Toeapa, npoflaBaeMoro noj
+100% (one hundreci percent) of the value of the Goods soldlfloroBopy, AonxHO 6biTb onnaneHO npoflaeuy в BaniOTe floroeopp
+lunder the Contract itll be paid to the Seller by way of a bankjmyreM ocyu*ecTBneHMR 6aHKOBC<oro nepeeofla 8 TeHeHwe 60)
+ftransfer In the: Cun pney of the Contract within 60 (sixty)|(mecTbAecflIT) KaneHAapHbix flHee} от flaTbi nepexofla праеа|
+alendar days fromitle date of transfer of property right to thefeco6cTBeHHocTW K floKynaTeHio. npoflaeey HanpaBn*eT Konuiol
+Buyer. The Seller shall send a copy of the invoice to the Buyer{MHBOMca floKynaTenio nocne OTrpy3KM с npow3BOACTBeHHogo
+on the next day f Jwing the dispatch from the productionjmpeAnpwflTWR cooTBeTCTByibdiueM napTww Toeapa.
+factory of the appropfate batch of the Goods. riokynaTenb BnpaBe ocyLuecTB/iATb npeAsapMTenbHyio onnai
+he Buyer is entitl ii to make an advance payment for theTosapa.
+(Goods at any tihie..j
+삐 . .
+4,4, Payment: ism ade in contract currency or under thej4.4. 000818 промЗВОАМТс« в eaniOTe Aorosopa won no yKa3aHhp)
+notification ofthe ij Seller in RUB (Russian Rubles) at thejFlpoflaBa в py6ji»x (RUB) no хуреу 디 eHTpanbHoro BaHKa PocdwM,
+fexchange rate; publWhed by the Central Bank of the Russianmjjony6nMKOBaHHOMy Ha caWre:
+[Federation (source!:| https://cbr.ru/eng/currency_base/daily/) omhttps://cbr.ru/eng/currency_base/daily/) wa flaiy nnaTexa, ecnw
+the payment (iate* }inless another payment currency ог/апфиная BantoTa nnaTe>Ka wnn/M MHOW хурс He cornacosaHbil
+another exchange rat& are agreed by the Parties in writing. CTopoHaww nMCbMeHHO.
+# 1
+4.5. The Buyer pay-for the Goods according to the Seller's БапК№.5. floxynaTenb onnaHUBaer Toaap no peXBM3MTaM npoflaeua,
+details specified in # Contract, or under the written instructionfyka33HHWM в floroBope, nw6o no nwcbMeHHOMy yKa3aHHK>y
+lof the Seller accoréqing to other details provided on the firm про^аВМа no MHMM peKBM3MTaM, npeAociaBneHHbiM Hag
+blank. } ; cpwpMeHHOM бпаН«е,
+4.6. Bank charge” Hind fees related to the execution of tha}4.6. GaHKOBCK’e pacxoAbi w cbopbi, СВЫЗаННЫе с пспопНениа М
+payment are attribul 1 to the Party, making the payment. nnaTexa, onna4WB3K>TC« CTOPOHOW, ocyiMecTBnniofMeM nnaTe}K.
+i
+{
+Н
+°
+|
+|
+]
+|
+
+|
+]
+„Т. In case of delay | payment the Buyer is liable for a репану]4.7. В cnyqae HapyujeHU% cpoKOB onnaTbi HoKynaTenb Haj
+in the amount of 0,1 94 (хего point one percent) from the amount}ocHOBaHMH npeflbfIBneHHoro npoflasuoM TpeSoBaHUA ynnaqwHaeT
+f delayed payment fpreach day the payment is delayed, as welljnpOAaBay HeycTéwKy в pa3Mepe 0,1% (Honb uenbix OAHS 4ec7| Yard
+las for a compensationjof the additional costs of the Seller which}npoyeHTa) OT cyMMbi просроЧеННого nnaTexa aa KajKAbiii AeHp
+have arisen with relal ion to the delay of the payment by е — fapocpoUKM onnaTbi, a Taxxe KOMneHewpyeT flononHMTenbHbie
+(Buyer. : i. jpacxoJbi npoflaeua, BO3HMKiuwe В CBR3M С просроМКо^ onnaTb
+If the Claim is forwar@sd, the penalty is calculated by the SellerjFlokynaTeneM.
+starting from thO 42+] following the date the payment is due, |B cnynae HanpaB/ieHM¥ TpeGoBanwR HeycTOsstea paccHMTbieae TCA
+irrespective of 2 the : t J] upon which the request for penalty hg&poAaByoM, HannHaA co AHR, cneflyiomero За AHeM, 1согла
+been sent by the Seller: fo6s3arenbCTBO no onnaie AOHJKHO 6bino SbiTb McnonneHO, BHe
+: | 3aBMCMMOCTW OT ASTbI HanpaBJieHMs) ripOflaBLIOM TpedOBhHWS 06
+1 'уппаТе HeycTOWKM.
+4.8, The Seller is un “laterally entitled to change the terms of (4.8. npOAaBeii snpaBe В oflHOCTOpOHHew nopsAKe nyTeM
+|payment for the, Gooj@ to a postponement payment or grant the}anpaeneHMH yeeflOMneHMH rioKynaTenio M3weHMTb успоВие
+Buyer an additional аее period for payment for the Goods, jonnaTbi ToBapa Ha oTcpou«y onnaTbi JIM60 npeflociaBUTb
+In the case of fdrwarj ig a notification with respect of the entir¢HoKynaTenio ftononHWTenbHyio OTcpou Ky onnaTbi Toeapa.
+contract, that is, with Put reference to a particular Addendum/ В enynae HanpaBneHMR yBesiOMneHUH в отношеНМу 280600
+invoice, it is considdred that the condition on the grace periodjAoroBopa, TO eerb 6e3 yKa3aHkin Ha KOHKpeTHoe npwnojKeHM¢
+vith regard to paymeit: for the Goods shall be applied to both offh/vifiM UHBOMc, cCMMTaeTCil, мто ycnoBwe 06 OTCPOUKe onnaTpi
+he existing Addendisgms/ invoices and with regard to thosefToeapa приМеНхеТСх) КаК в oTHoujeHMn yxee 3aKniOMeHHbii
+ddendums/ invoice|that will be concluded (issuing) under the}ripwno)KeHMM/ HanpaBneHHbix wrtsomcos, Tax м в OTHOuieHHM Tex
+Contract in the fulu re, regardless of any other conditions|ripwno)KeHMM/ мнбомсов, KOiopwe Syflyr 3aKnK)HeHbi/HanpaBheHw
+specified in such Ad<gpidums/ invoices. В paMKax AaHHoro florosopa В 6yflymeM, HeB3Hpan Ha ntodwe}
+he parties ‘hpve 10 right to change the condition ойМНЫе ycnoBMR, yKa3aHHue в Taxnx npwnoxeHWRx/ MHBOMCSX.
+postponement paymeigt for the Goods provided under this claus¢CTOPOHH snpaBe M3MeHMTb ycnoBwe 06 oTCpOHKe onnaTbi ТоВара,
+by entering into a se }rate additional agreement to this ContraqmpeAOcraBneHHO &) в paMKax HacroRmero nyHKTa, пуТем|
+: ' ! 3aKnK)4 eHUfl OTflenbHoro AononHWTenbHoro cornaujeHHfl 떼
+i HacTOHiueMy floroBopy.
+-9. NO amount of claims, penalties or other claims can be 4.9. 3anpeiuaeTcn yAepwaHwe M3 cyMM nnarexa JIIOBbIX cyMM}
+vithheld by the Buy ‚ . eir from the amount of payment-ThejnpeTeH3Mit, urrpatJxiB м np. ТреВоВаЙММ. nnaie>K Aon)<eH OWiTb
+payment shall tie effected in the entire amount specified in th-efocymecrBneH Ha Bclo cyMMy, уКаааННую в MHBoftce.
+invoice. ! | | ; /Ecnw noKynarenb He npoM3Ben onnaTy Ha 8010 cyMMy, yxa3aHHyK)
+If the Buyer’ has pat; made payment for the entire amount/B MHBdWwce, TO npoflaseu snpaBe He yAoeneTaopsTb nioSbie
+ispecified in the invejco; the Seller has the right not to satisfy anfmpeTeH3MM noxynaTena.
+claims of the Buyer. I] :
+.10. If the Buyer h_s} previously made a payment, or part of it,{4.10. Ecnw riOKynaTeneM Gbina npeflBapHTenbHo ВНесеНа
+he Seller has the, right to retain this amount and use it tofonnaTa, HM60 ee YacTb, TO npoflaBeq Bnpase yflepxuBarb AaHHyjo
+compensate for thd penalty and (or) losses, caused by the —@feyMMy М ucnonb30B3Tb ee Arm BO3Meu4eHW« HeycTOMKH М@пп)
+(Buyer, fault. j : Н SbiTKOB, BOSHMKLUWX no BWHe floKynaTeDR.
+. 1 니
+4.11. In ca6e of payment delay, including, but not limited, for thel4.11. В enyyae npocpoMKW onnaTbi Toeapa, B TOM MMcne, 10 На
+reasons related to th Buyer's bank, the ownership of the GoodsjorpaHUHHBaRCb, no npwMHsM, cB«33HHbiM с 6aHKOM noKynajenfl,
+may be returned to 94d Seiler (if it was previously transferred tejmpaso coGeTBeHHocTw Ha Tosap Mo)KeT 6biTb BO3Bpai*|eHO
+he Buyer in accord le with the terms of delivery) upon Sellers|HpoflaBLiy (ecnw panee OHO nepeinno K HoKynaTenio B
+notification. i ! Ц OOTB6TCTBMM С yCflOBMfIMM пОСТаВк\\), ㅇ MeM neicynaTeiiK)
+Н 튤 [ HanpaBnAeTCA уВе^ОМпеНие.
+4.12. The Seller shall be entitled to unilaterally change thej4.12. npoflaBeu Bnpaee В оаНосТороННеМ — nopHAKe W3M6HMTb
+payment terms ; and © tequest a 100% (one hundred percent)/ycnoBwe 06 onnaie, yeTaHOBMB ycnoBwe 100% (CTO npoueHToe
+advance payrpent for he Goods by notifying the Buyer in writingmpeflonnaTbi CTOWMOCTW napT_ Toeapa. В STOM епуЧае
+10 (ten) days prior Ц#Не changes coming in иа npoAaBeu o6fl3an nwcbMeHHO yBeflOMMTb noKynarenfl 06
+1 캘 va M3MeHeHWM ycnoBnA nnaTexa За 10 (flec*Tb) AHew ло BCTynfeHw«
+(bog M3MeHeHwit В cwny.
+i od
+i
+|
+1 1
+. [
+] ъ;
+|
+
+|
+|
+|
+|
+|
+: : td
+“(0202 950610 sjnafe* 00901 QQI) 940>& w-odo Н pejl u(Q gia! ui padejocUoDU|
+0 ruBL*u woaojdoO MOHtfodeHAt6K9* e>idoaojo HOiaKHawwdufAqajaq sj (0202 esneo ©jnefei* san >j opi) #LVeiuiuoo
+Adoaojot/ AwshiBoioeH x о ЕЬ “ueaooeujoo MHOdoOo @-- 5 ~shio jaqujeqo | euoi)euje| ul 941j jo 350610 ai }feN 80JOJ #07, $
+“bueieuX)ioL} |
+lawwotfosA oHHawqouu . [8650 ㅁ ee , 0916\40 woHnuaiMdest/adu did: 혼 JaAng
+eeioehex a $ 02 tfsd. xiqHMOHQtf bMHahAuou oehAu@ffi 0| uopeoytigu иерцу! eiA “uaiuAed aoui#Xpe UB se 50008 3091
+a smuh woO е 3MH3)KOirMdl 」 <u/Hidoioed (14UM)W edeaox MIISBIPeFospunj paAjeoQj UIAY ‘uinpueppv ue ej piuudj (°)P“ spooo
+по Ko*ueeeMio asedue sxVBdou wsHHodoOOoHW0 в tiaaeUodu *9№)о Kj9Ai ep р esnpj Ajejain™ 야 рапаца, i, 19 аз аЧО g g* "
+“wewao HeueHex wnHHOd o>1py% Ｌ 3
+ou OJOHHauseduBH senaetfodu tfwoeixjoo о w KweQOeuAxe], ‘(jeui-a BIA fivipnpui))oaj9m $9dple Jd] | 9$ ay))| Al uo
+lagqoodu ou oHesodnuAHHe qiiqgg Oe>Kow eMHaxouwdu аовод} Sif jna issnbaj sjeXng aqi Aq paiooueo sq ue; | mnpuappv Auv &&
+“bHeu ~MOU i ， Ш. JoAng am
+006000 OJOHHQM %})wu cag eHodo 03 wgad9d ㅁ Adoaojoyffo juasuoo uaupM е jnomiw Aped 0]141 ㅇ 6 pejjuoo eq) Japan
+и ktiooHHeeKgo w esedu qieset/adeu oaedu laawn heaetfod| j '6 иореб | | д0 pue $)q6u am ubisse о)ра| | i up siJaiPS ayo +S
+| }
+*wohaetfodu JQIPS #41 Aq p*yoedtsip aje JO ped u! )이
+H9>KA(LOLO MLTM 'HdVdeEHOdU OHMtLOeh MUM °/<UOOHLT@at! @@д poonpojd ate spooo ад| 12 аяя ! si winptwppv sai
+OMBI niroe 'OHxowcoadH “MHaMCOirwdLj в xiqHHeaooBLrijoo 'eqttaqtaaj6e spoog am р onsugpEJBqo Jo, joiijpuco 스 104611 9P eq)
+fxniDMdejDiedex vW MMOBIOQU wnaoiroX BWH3H9WeFi/edsaoO Go eft 6ugijipuoo jo ugijeoyipouj eqi JO spog Yeai jo ugipafaj am]
+*ehaetfodu eO9ho ММНеаоНОО BH KointfoflCModu eieLnio 손 |. /spoooam |
+‘edesoO MIOOWMOID OO (8141 화 ] odu eetr) % 즈 adawced 8 HWWXop enjBA eq! |o (juaojdd omggoi 6ul Dil noiuepujnpuappy da:
+ейеаос MIOOWMOIO WMHdxoifMdu e, MOHHeaoceujoo > wauaDetM){pip9aiGe spoof) am 101 51500 ail ; oF ㅁ 070806 ㅁ QOQIOAYI 518069
+16400 MQH<UJ9 ㅁ UHL/OUOtf ММПОМОХ мац ‘<9G_hOU 8101189008600666 }UdiuAed 16401210206 ue S9)(eiu jaAng aqi ji pue (jieui
+ㅁ ojoHHaueeduBH *h-0 $) ehset/odu KWOBUJOO О AODMOOHS#@ BIA 6ul pnpui) |eAOjddB sjaips ад> ajiMdo jeXng 3 예 Aq epeuil
+НАЛОМ edesoi XM Lowd9i>iedBx w nxseioou ywMaouoA OHAUQUMOOH@@ Aeiu зроо^ aq) jo sgQijsijepejetp рые Sudijipuoo XieA| | ap
+4sWHIHIMCM *MMeHOd01D BMH9>KOUMd4 KWHBOHUt{OU QUPOLABi@ip е ‘ssiyed ЭМГ Aq uinpuoppv fetn 6 여 ] 615 isyy X'S
+"MMHdXOUMdU W941] 14003098000, ‘dj. K?PPV am uj paej6e
+8 MMhMsou MottKeM ou ew9«igo ojOHHeaooeujoo Oo KMHSHOUXLquopjsod qoee jo emn| 0A pdduBe 201070 . UsOO ftuaojad us})
+(eo KH9hodY siKOQtr) %OL оу BOIQB)ioAuoW xe>raeQoou g ‘Z'gf*%(H о; dn 556| JO 61010 eq Aeiu psddias auin| OA jenpe адх”^'5
+*Buaxutfogewodu wifw/w OJOH anne ew Эур/рие 201 | 35
+К Koanhioi9WM 'deaod BH i«uexn®)e]Odeo O9BLrae Kootr4du па О 91 ge ieAe 5000^ ад| 101 590801|12 @ epiAoid | |eus jayeg
+BueOeth’Joy eMHesogedo о') KODoAgadi онвипехифил@е:) *p'g}9q)'JsAng ад ;0 jsanbaj ay)p9J(nbdupy * , 노 04 5! ЦОВа * Га
+[ _ . . . . нонодбейщнеСтноооне role
+는 spur
+ь etiaetfodu loro ВН anotfedo XRHXOHOWHueAepj oq)qliM 23710510 si Jelpg da р | ипооое эу YOIyA
+bMHeironhee «jDeta* о WHHHheiJUO WOXSBIMhO dSSO о >1!1-« [tio cep dm je pied 9q 아 psidpisug0 9а —^ П& М$ SPOOQ Э1, mao в
+W91F9 о 64/)10| 」 sjaAng eq) Aq 14910260 9Ui jo sjep aii
+ь e)KaDeini KWHsmdaaoo Aietf BH MsniBeapwatt(t)d 9h AodA>i owJueissny eq| р ijueg lejjueo 94) giej QDul eqoxe eqi ie lueuiAed
+ek(QDeuu 9 ㅁ 에 ]168 용 BoiMtfoaEModu Dedsuoa оП eedoaojotf Oel/egfeq) jo Aouauro ayy ui epetu si punjej “Deiaupo eqi jo '
+Oo yoMhwmo *Qoelres a eHat/asenodu enwg ㅇ ㅁ 51/00 \060@96]10@ Ii uet}} ]61 사 으 Aouajjno е ui epeiu ge/vWyuauiABd еа л-'
+Jedoaojotf 90 ㅁ 에 /68 а ¥loOMyoseMOdu Cedaeos| ipejiuog 9 내 jo 스 048]] 피 by} ui apeui si, punjQj
+об 'Bdosojotf aioiueg a eH9tf98Enodu eung eOeuuo MUDQ Эф0 *pej/U03 94j jo Aouajino 3q)ui apei J sp jueuuAed eq; ]] -
+: 9>|tf{Mdou wehioiAtfeuo 8 woOWVoseModu Ceditieoa woxeO “xotfsdo! 15010 6uiMO| | oj eaj ui, apetu st punjail
+isH) KQHetf wohaBtfodu eOedGeos MioowwtfoxgoaH eehAuo 용 еп%(е 0005 'spun/ oq)tun)9j o> alps ° 1JoF a 502 11 XTVs
+i
+
+5.8. The Goods are i to the Buyer within the Credit LimitJ5.8. OirpyaKu ToBapa ПоКупаТето ocyiuecTBnjuoTCA В npeflenap
+The Credit Limit - thtqmaximum value of the Goods planned for]KpeflHTHoro riMMMTa. KpeAMTHbi* nuMWT - MaKCMManbHbiti pa3Mep
+shipment (shipped) aii not yet paid by the Buyer. The size of{€TOMMOCTM nnaHMpyeMoro к OTrpy3Ke (OTrpy>KeHHoro) м
+the Credit Limit is determined for each Buyer individually and isHeonnaHeHHoro HoKynaTeneM Toeapa. Pa3Mep КреАМТНого
+communicated to thes} Buyer via email to the email address|mwMMTa onpeAenaeTcn Ans) Kaworo flokynaTenfl MHAUBWflyanbHo
+Ispecified in the Contrget.-The Credit Limit balance is calculated 히 cooOiuaeTCil noxynaTenio no aneKrpoHHOw noMTe, yKa33PMH@M в
+las the difference beh"een the Credit Limit and the debt of thefloroBope. OCTSTOK КрейМТНого nnMwra pace4MTWBaeics) KSK
+Buyer. ! edt pa3Hviua Mewy Kpe*MTHbiM HMMHTOM н 3aflon)/KeHHOCTbK)
+If te Buyer within th@scheduled delivery period agrees to ordeffnoKynaTenw.
+goods in the amount ‘/éxceeding the Credit Limit balance, the/B enynae, ecnw FloKynaTenb В pawxax ппаНоеого пермойа
+[Buyer shall pay tha) iftyoices early regardless of the terms of|mociaBKH cornacoean К nocraeKe об1>еМ Toeapa СТОНМОСТЬЮ,
+payment under the dejltract by transferring the amount of moneympeBbtiuaiouAviki pa3Mep OcTaTKa Kpe*MTHoro nHMMTa,
+
+о restore of the 00^ 패 #6 Credit Limit balance to the account offDoKynaTenb O6H33H floepo Ч HO - AO ASTbi nnaTexa,
+tthe Seller. Н ппрейусМОТреННОй floroBopoM, nepeMMciurrb па pacneTFibiw citeT
+If the Buyer places ‘daurchase order in the amount that exceeds{ripOASBMS CyMMy fleHeMCHbIX CpeflCTB flO BOCCTaHOBJieHMIA
+the Credit Limit:balat se the Seller has the right not to ship thejnono>KWTenbHoro OcraTKa KpeAMTHoro nwMMTa, BHe 3aBMOWMocrw
+(Goods to the Buyer.! IM this case, the Seller shall not be subject}©T ycnoBMW onnaTbi no Аогоеору.
+
+о any liability relatedtithe suspension of shipments. 'В епучЧае, ecnw cyMMa ЗаКаЗаННого TOBapa npeBbimaeT OCTSTpK
+
+he Buyer is oblige* #0 monitor the balance of the Credit Limit/KpeAMTHoro nMMUTa, npoflaeeu enpace He oirpy)KaTb ToBap|
+land to agree with they Seller changes of the Credit Limit and гофпоКупаТепго. npn OTOM К npofiaBay He по/у1етаг npuMeHeHMto
+ithe terms of payment for the Goods in advance. J1iOGbie Mepbl OTBe TCTBeHHOCTk, CBA3aHHbie С OCTaHOBKQM
+
+i i lOTtpy30K.
+, riokynaTenb o6R3aH oTcne>KMBaTb OCTBTOK KpeAWTHoro пуММТа м
+= % ЗабпагоВреМеННО согпасоВЫВаТЬ с npoAaeuoM M3MeHeHM«
+
+; KpeflHTHoro nMMWTa м ycnoBws onnaTbi ToBapa.
+CXS . . . Бжонемненантыыь _
+6.1. The agreement"#s Addendums and other documents under6.1. florosop, ero npHnoxeHwn w МНЫе floxyMeHTW no AoroBOpy
+the agreement are cbel(idential' information and are not subject tpilBn%»oTC« KOHcijwAeHUHanbHoit MHtopMa4weii м He noAnexa
+disclosure without thts consent of the Parties. If one of thefpa3rnailieHwro 6e3 cornacwfi CTopoH. Ecnw ОАНа H3 СтоРон
+Parties violates’ this’ gbligation, the other Party has the right 19]НарушМТ A*HHoe o6R3aTenbCTBo, To Apyras CropoHa Впраее
+demand payment оГа fine in the amount of 100,000 (опеТреОоааТЬ onnaTbi шТра'та В pa3Mepe 100 000 (cro TWC«4) Eepp.
+hundred thousand) ЕИТБО.
+
+|
+7 Notes OT a
+니 | . . |
+8.1. First of al |, thdPairties under the Contract shall be guided by[8.1. В nepByK) onepeab CropoHW рУКОВОАСТВУЮТСЯ floroBopqM.
+this Contract, lithe ; #@|se is not regulated by this Contract, the}JECTIH Bonpoc He yperynMpoBaH floroBopoM, TO noflne>KM
+Parties shall guided Py United International Convention on thejimpKMeHeHMio MewyHapoAHas KOHBeHUMfl 100 floroeopaM
+Contract for ote Sales of Goods (Vienna, 1980). If the}iMe>KAyHapoAMOM npoAaxM TOBapoB (BeHa, 1980). Ecnw Вопрфс He
+case is not regulated mentioned in thus clause documents,fyperynupoeaH floroeopoM п KOHBeHuwew, TO noflnexM
+urkish law of obligatohs shall be used. npMMeHeHMK) 06 &) 3aTenbCTBeHHoe npaBo TypqwH.
+8.2. All disputes ob negotiated. In case of non-achievement}8.2. Bee cnopbi no HacToniMeMy floroeopy CTopOHbi yperynupyi)T
+f the agreement di%iute shall be finally settled through IstanbumyreM neperoeopoB. Hpw HeAOCTMxeHMW cornacws cnop Оу^е
+Arbitration Centre ? Minder the Istanbul Arbitration CentrefOKOHMaTenbHO paspeLuaTben В CTaM6ynbCKOM ap6MTpa>KH@M
+A rbitrationRute. ” : ueHTpe В cooTBeTCTBMM с npaBMnaMFi CiaMOynbCKorol
+he place of the ar‘Mration shall be Istanbul, Turkey. ArbitratiotfapbMTpaxHoro ueHTpa.
+an be conducted viaWwideoconferencing. Месгго apSwTpaxa - CiaMSyn, Typqufl. ApbwTpaxc MOxeT ObiT]}
+he language cifthe>#rbitration shall be English, inpoBefleH с noMe¢FUMO BMA/OKOHepeH"CBJ3M.
+he number of the ar itrators shall be one. ЗЫК ap6wTpaxa — aHmw 여 CKM 4.
+The law applicable tothe merits of the dispute shall be Turkish. JKODMHeCTBO ap6mpOB - OfIMH.
+~ .:3{ 1 I npuMeHMMoe npaso - npaBo Typunw.
+joie
+9. Origin: Russia | 9. npoMcxo)KAeHMe: Россмн
+abit
+: 4
+ㅣ
+
+ol
+1
+11. The term of the L and the procedure for sending 11. CpoK ^еМСТВМН floroBopa М nop*AOK HanpasneHM9j
+notifications ! | lyBe ㅁ oMJieHMM
+11.1. The Contract corjnes in force at the date of its signing and}11.1. ПогоВор BCTynaeT В cwny с MOMeHTa ero noAnncaHMfl 매
+is valid till the 31.12,3@5. AewcTByeT ло 31.122025.
+‘The Contract is conciitied by exchange of Scanned copies by е-4ПогоВор 3aKniOHaeTCfl nyreM obMena CTopoHaMM ero СКаН-4
+mail. The documents sent in this way are considered to be}KonnflMw no aneKTpoHHOM nonie. HanpaBiieHHbie TaKMM o6paBOM
+signed by a simple eleTronic signature and Parties recognize as OKyhWHTbl Cy MTaJOTC &) nOflnKCaHHbIMW fipOCTOM 3neKifpOHHOH
+equivalent to a раре^ |igned by the handwritten signature of the}noAnncbio w npn3HaioTCA СюроНаММ paBHO3HauHbiMw SyMaxHWM,
+Parties. Any arrtendr rents and supplements to the ContractfmoAnvicaHHbiM собсТВеННоруМНО^ noAnwebJO СтоРон. H3MekeHMs)
+‘submitted via similar ‘rocedure shall also be deemed valid andiw AononHeHMfI к florosopy, nepeziaHHwe В ananoruMHOM nopJiffKe,
+fenforceable. | }CHMTaiOTCH fleMCTBMTenbHbIMMM ~=MMetOIUMMM nonHykp
+j КОрий МчесКуго cuny.
+11,2. Any letters, dopifiments as well as other legally significant411.2. rincbMa, npOMKe flOKyMeHTbi, a Taiwe ННЫе 1\200/ 안 ㅁ 60× 페
+messages, transfer!* via telex, fax, e-mail from domain @plw>48HaHKMbie coo6iMeHM«, nepeflaHHbie no TeneKcy, 42385
+Isystems.com (the ? - Seller) and domain/adress mail@sfb-  JaneKTpoHHdii noMTe с АОМеНа @plw-systems.com (npoflaseu) \
+ftrading.ae (the E Buy or WhatsApp electronic messaging АОМеНа/аАреса = mail@sfb-trading.ae (noKynaienb), cwcreMe
+Isystem and confirmeel by a reply message from the other partyfo6Mena  sneKrpoHHbiMM  coo6iMeHMRMK WhatsApp M
+(including document* kigned by the other party and transferredijnoATBepxAQHHbie oTBeTHbiM owpaBneHMeM &pyrow cTopoHaw (B
+о the first party with the help of abovementioned means) shall Мтом Uwene noAnucaHHbte Apyrow сТоровоМ м nepeflaHHbie 16030) 여
+166 deemed confjdenf #1, valid and enforceable. [СТОроме с noMOUL] bio BbnueyKaaaHHbix epeflere CBA3w), CMUTaiOTcn
+4 WKOH*MAeHunanbHbiMM, AewcTBMTenbHbiMH w MMetoiuHMM nonnyio
+tal K)pMAvmecKyK)cwny.
+11.3. If the obligationqef the Buyer are not duly performed by th¢11.3, 8 enynae ecnw o6R3aTenbCTBa HoKynaTenfl ne Syfty:
+date of the terminatibyof the Contract, the Seller may unilaterall¥kicnonHGHbi Ao 25781 OKOHMaHMII ПейсТВум Aoroeopa, AewcTBMe
+fextend the term bf th¢Contract by giving notice to the Buyer untffloroBopa npoflneBaeTCR ripoAaBUOM nyTeM nanpaBneHwa
+he date of complete*performance of the Buyers obligations. OAHOCTopoHHero уВейОМпеН\/П noKynarenio & о nonworol
+Н | wenonHeHM« noicynaTeneM CSOHX 06«)3aTenbCTs,
+. | .
+11.4. In the event; < any contraventions in the contractualf11.4. В cnyHae прОТМВореН\/^ в AoroBopHoiS ПохуМеНТачмм,
+documents, the provisfons of Addendum shall prevail inpewMyiMecTBeHHyio cwny MMeiOT успоВМА npunoMeHMM 떼
+lover the Contract (e dept as expressly stated in this Contract). hiHacTORLueMy floroBopy (KpoMe cnynaeB, npnMo yKa3aHH«x 며
+icase of a conflict bet/een clauses within the same Addendum,]HacTOAiueM floroBope), ЗаТем —- HacTOfittiwM florosop. В епупае
+the clause with;the 1@west sequence number shall prevail overjnpoTMBopeMkin Mewy nyHKTaMM в раМКах OAHOFO npunoxenuly,
+the clause with fhe ggipbest sequence number. nyHKT С HaMMeHbUJMM_ nopflflKOBbIM HOMepOM MMee’
+는 역 InpekiMyuiecTBo HSA nyHKTOM с 6onbiliMM nopRAKOBbiM HOMCPqM.
+는 읽
+120008 ， | _ _ _ . . . . . . . [20008680
+the Seller i [бродаеы _ |
+Plywood Systems, | X 1000 «HnaHByA Снстсмс»
+| Legal address: j | 192012, Russia, Saint-PotersburgJAApec: 1192012, г. CaHKT-rieTep6ypr, пр-КТ O6yxoBCKOHM)
+(Obukhovskaya Oborofri Ave., 112, korp. 2, liter 1, of. 233 обороНЫ, f1OM 112, Корпус 2» nujep М, owe 233
+-id
+Rpgistration number ; 1197847111274 (PerHCTpauwoHHWit HOMep: 1197847111274
+] 티
+Bank name: SBERBAJMK (SEVERO-ZAPADNY HEAD OFFICE) |6аНКО СЕВЕРО-ЗАПАННЫМ BAHK nAO CBEP6AHK
+` 11 ft
+Account No. (RUB): 9470281095500098 8489 |расч.СМбТ: 40702810955000008469
+BIC: 044030653 ' | BMK : 044030653
+k/s code: 301018105©000000653 Kopp. cneT : 30101810500000000653
+|
+a е
+ㅣ S FB GENERAL Tz] ipING LLC SFB GENERAL TRADING LLC
+egal address: office a 03, Arenco Tower, Media City, Dubai A/ipec: office 1503, Arenco Tower, Media City, Dubai
+Régistration numbei Н 「51806 PerMCipaunoHHbi* HOMep: 2151806
+Bank: "Credit Europte Bank (Russia) Ltd/’ BaHK : AO "KpeflWT EBpona BSHK (Poccua)"
+Bank address: i290%);Russia, Moscow, Olympisky pr.» 14 AAPCC баНКа: 129090, Pocewfi, r. MocxBa, ОЛММаММСКММ np-KT, А.
+14
+й :
+Ка
+ellis
+- ond
+ож |
+
+BIC: 044525767 BMK: 044525767
+Account No.(RUB): 40807810300904126687 P/c (RUB): 40807810300904126687
+Corr account: 30101810900000000767 K/c: 30101810900000000767
+3. Sips _
+Faye Rkysatene Fipenasey, ,
+GSS jas
+oft dS е
+___4}__#_'_‘_ \\ — /$ЕУНИМ HUSEYNOW/ ` : 6 СОС Wi Sokolov /
+° at lo " 운 = oe 심
+с ) AN atinanoya @ éics)§ |
+% <& ek Se)
+, < \* ща Й
+АСО ОЙ
+| arn YA
+en
+|
+|
