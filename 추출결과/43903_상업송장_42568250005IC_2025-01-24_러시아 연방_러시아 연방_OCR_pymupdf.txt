@@ -1,0 +1,162 @@
+# 추출 방법: PyMuPDF (직접 추출)
+# 원본 파일: 43903_상업송장_42568250005IC_2025-01-24_러시아 연방_러시아 연방_OCR.pdf
+# 추출 시간: 2026-02-02T23:55:12.028614
+# 총 문자 수: 3,212자
+# 총 페이지: 2페이지
+============================================================
+
+Notice : 29일 오전 마감
+⑫Final Destination
+5
+FREIGHT PREPAID
+©Revenue Tons
+：@Rate
+©Collect
+* 검색기비용정산 투더普유 051 469 6877
+홋
+©Ocenn Vessel
+PROVIDENT
+. E-MAIL : WONDERGREEN 16@DAUM.NET 
+PHONE: 82-51-714-4034：
+PANAMA
+®B/L No.
+PCSLVVBSC2500014
+DONGYOUNG SHIPPING CO.，LTD.
+PEGASUS CONTAINER SERVICE
+귀사 화물이 아래와 감이 도착 예정임올 뿜지하오니 입항 
+전일 오전까지 실화주신고 및 배정율 정해서 연락 주시기 
+바라니다. (단，입항일은 사전봉보 없이 변경될 수 있옴) 
+담당자 : ;ON HYUN JUNG TEL: 0514602847
+접안터미 
+BPT SINSEONDAE 的07개16
+본선입항 에정일 : 
+20250131
+MRN NO : 25PCSUK056I MSN NO : 
+3011
+입항회수: 
+6
+’ H니 Nos.
+ARRIVAL NOTICE
+⑭ Pter :현 Prepaid
+:：，，T，)네 Nunibu of Containers or SAY : ONE (1) CONTAINER(S) ONLY,
+Packages (in words) 
+©Freight & Charges
+*SURR티MC또R및 INV이CE는www.pcsline.co.kr에서E-S타국VICE가입후 조회및출력이 가눙합니다. 
+•BPT신선대 보관료 FREETIMES 터 미얼로 확인바랍니다. T 051-62아0323
+*동영해운 ON-DOCK BPT신선 대 : 03077016/CPS : 03077134 적출 ; T.620-0319
+*DRY/FR/OT/RF 운송사 투더블유 051 469 6877
+• 위험물 Class 2.X대. 냉동위험물(일부제외 사전확인)온 터미널장치볼가,입항전 차상반출 진행바랍니다. 
+*DG 경과보관 FREE TIME 在과시 할중부과됩니다/* FE 티D 타^선사는 터미널 FREE DAY3 일입니다. 
+斤니SM3.◦에서 DEMMERA&E,DETENTION 경과료 인보이스 생성합니다.
+j |. Shipper
+LLC MAGISTRAL TRANSIT.
+IRKUTSK REGION, KAZACHINSKO-LENSKY DISTRICT,
+P. MAGISTRALNY, RUSSIAN STREET ,BLDG 2 V, OF. 6, 
+RUSSIAN FEDERATION
+©Consignee
+WONDER GREEN CORPORATION
+49, JEONGJUSANDAN-RO, GANGSEO-GU, BUSAN.
+REPUBLIC OF KOREA
+CONTACT PERSON NAME : LEE BOKYEONG *
+il'v Pnrty
+WONDER GREEN CORPORATION
+49, JEONGJUSANDAN-RO, GANGSEO-GU, BUSAN, 
+REPUBLIC OF KOREA
+CONTACT PERSON NAME : LEE BOKYEONG *
+⑷ I^re-carriage by
+I
+Q) Place of Receipt
+A/LADIVOSTOK, RUSSIA CY
+(8； Voyage No.
+2503E
+©Port of Discharge
+BUSAN.KORfeA
+®)Port of Loading
+VLADIVOSTOK FISHERY
+©Container No.
+DFSU7496318
+K5232411
+CALL SIGN : 
+3E3693
+$ Place of Delivery 
+BUSAN CY
+•O^No.of Containers or ^^Description of Goods 
+； Pkgs.
+4HDC* X 1
+18 BUNDLES
+•
+J i in， Weight 
+Measurement
+25.786.0000KGS； 48.1140CBM
+I
+: 
+: 
+I
+i SHIPPER'S LOAD A COUNT
+• 
+• 
+•
+! SAID TO BE:
+i•
+PICEA OBOVATA
+* 안보이스: 동영해운E-S타=<VICE가입 후 신청및 조회
+Form B
+!?바일 서비스 各러스' 습시. 기존 E-S타WICE 이용 고객께서는 기존 아이디로 사용 가능하며 Play SId的 /AppStore에서 '동영해 운” 검색하셔서 다운로드 받으실 수 있습니다
+
+Shipper l.I.C Ma선Mrel Transit
+Date 2K. 12.1024
+Cons切m쌌 WONDpK GREEN CORPORATION 4하 JeongjUsandan-ro, 
+GonKseogu, Busan, Republic of Koica
+INVOICE 사605 dd 3R J2,20M
+Departure: LJlkan
+WONDER GREEN CORPORATION 49, 
+}angseo-gu, Busmi, Republic
+Dcstinaiion hisan
+ofKorea
+Wagon - 98164981DFSV7496311
+Letter of Credit dd
+Jncassd M
+C에tract X* MT/S-69 dd 23.08.2019
+Addendum M 44 dd 11.09.2024
+Russlnn Sawn Good*
+Qunnlily
+In cbm
+llnll price 
+Jo USD
+Amount In 
+USD
+Sawn lumber, 抑wn inft boards mad« of picea oboval^ 
+not plaiuxlpnot polished, wot having a spike connection, 
+not treated 네h preservatives, eubjcci to heat ireatmenu GOST 26002-83. 
+grade 1，5
+27mm x 180mm x 3,985m
+48 J14
+195
+9 3 供,23
+T«mi
+48.114
+93«Jf23 1
+Grand total to Iw pnUI, 100%
+的 3*2,23
+Wm wired
+To wire
+Beiwfivuo'
+Bcncficiary*s bank 
+Bcncnciar/s bank adiess 
+SWIFT.
+Rcneficiary
+Account Number:
+TIN
+Adrcss
+0,00
+$9382,23
+LLC MAgtetral Transit
+JSC ASIAN - PACIFIC BANK
+RUSSIA, 225 AMURSKAYA ST., BLAGOVESCHENSK
+ASANRU8X
+LLC MAGISTRAL TRANSIT
+40702840214541000001
+3818021800
+666504, Iricutsk region, Kazachinsko-Lcn$ky distHcl, Magistralny settlement 
+Rossiyskaya str., building 
+ofTic©6

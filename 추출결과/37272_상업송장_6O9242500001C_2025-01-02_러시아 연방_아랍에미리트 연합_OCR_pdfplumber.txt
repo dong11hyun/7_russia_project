@@ -1,0 +1,111 @@
+# 추출 방법: pdfplumber (직접 추출)
+# 원본 파일: 37272_상업송장_6O9242500001C_2025-01-02_러시아 연방_아랍에미리트 연합_OCR.pdf
+# 추출 시간: 2026-02-02T23:55:08.279505
+# 총 문자 수: 4,316자
+# 총 페이지: 3페이지
+============================================================
+
+SFB GENERAL TRADING L.L.C.
+Registered address: Office P2TM-A08, Building WHP2-BL0CK-T
+COMMERCIAL, Saih Shuaib 3, Dubai, UAE
+SFB TRADING +971553188977
+mail@sfb-trading.ae
+CHEMART KOREA LTD. Invoice: 136-P/50357521-3
+RM.1905, YANGJAE-DONG, WINDSTONE
+HOFFICETEL, 79, NONHYEON-RO, SEOCHO-
+GU, SEOUL, KOREA Customs invoice : 1000695228
+Invoice date: 23.10.2024
+Terms of delivery: ^Costs'insurance & fre_ lnchon
+)
+Destination country: The Republic Of Korea
+Product specification : BIRCH PLYWOOD, Goods code 4412330000
+Glue Type Format Grade ne T s h s ic , k m ­ m She in ets Le m ng m th, W m id m th, Packs Quant., m3 P U r S ic D e, Value oc# Pro d d a u t c e tion
+pack
+Container: FESU5166132
+EXT x 8X4, full, S2S PST CP/C 7 56 2 440 1 220 28 32,676 530 17318,28 136-P/50357521
+Total in invoice: 28 32,676 17318,28 USD
+Date of shipment :23.10.2024
+Please transfer the total value of the invoice without any deductions and free of charges to:
+Beneficiary's bank : ABU DHABI ISLAMIC BANK
+IBAN USD: AE4305000000000 19105775
+SWIFT: ABDIAEADXXX
+Bank address: SHEIKH RASHID BIN SAEED STREET, ABU DHABI, United Arab Emirates
+Corr. Bank: RAIFFEISEN BANK INTERNATIONAL
+SWIFT CODE: RZBAATWW
+LIMITED LIABILITY COMPANY
+MULTIMODAL TRANSPORT
+FESCO INTEGRATED TRANSPORT BILL OF LADING
+FSC101SJ3795UWNQ
+SHIP P P ly E w R o ( o N d a m S e y s a t n e d m F s u , ll L A L d C dress) bill of lading No. IWOPUS24110148
+192012, Russia, Saint-Petersburg,
+Obuhovskoj oborony av., 112, k. 2, liter I, of. 233
+fnfegrafed T打ansporf
+CONSIGNEE (Non-Negotiable Unless Consigned to Order)
+CHEMART KOREA LTD,
+RM 1905, WINDSTONE HOFFICETEL, 275-2,
+YANGJAE-DONG, SEOCHO-GU, SEOUL, 06775 COPY
+KOREA
+yhe_chemart@naver.com NON - NEGOTIABLE
+NOTIFY PARTY (Name and Full Address) ALSO NOTIFY (Name and Full Address/DOMESTIC ROUTING)
+CHEMART KOREA LTD, EXPORT INSTRUCTIONS/PIER-TERMINAL/ONFORWARD ROUTING
+RM 1905, WINDSTONE HOFFICETEL, 275-2, FROM POINT OF DESTINATION
+YANGJAE-DONG, SEOCHO-GU, SEOUL, 06775
+KOREA
+yhe_chemart@naver.com
+INITIAL CARRIAGE (Mode)* ON-CARRIAGE VOYAGE
+SERVICE NAME Korea Soviet Direct Line
+PLACE OF RECEIPT* PLACE OF DELIVERY* INCHEON BOOKING No. IVVOPUS24110148
+EXPORT CARRIER (Vessel & Flag) VOYAGE QUOTE No.
+FESCO YANINA HKK1077
+PORT OF LOADING PORT OF DISCHARGE NUMBER OF ORIGINAL BILLS OF LADING
+VLADIVOSTOK BUSAN
+BELOW PARTICULARS OF THE GOODS FURNISHED BY THE SHIPPER
+MARKS AND NUMBERS NUMBER OF DESCRIPTION OF PACKAGES AND GOODS WEIGHT (KGS) MEASUREMENT
+PACKAGES
+N.W. G.W. (CBM)
+1X40HC ORIGIN RUSSIAN FEDERATION
+BIRCH PLYWOOD
+FREIGHT PREPAID
+CLEAN ON BOARD
+28 Parcel 40HC/COC/FESU 5166132 21,239.0000 22,911.0000 32.6760
+Seals: B5174416
+TARE WT: 3 840,00
+TOTAL: 28 Parcel 1 Container 21,239.0000 22,911.0000 32.6760
+FCL/FCL
+FIFOT
+FREIGHT + CHARGES PREPAID COLLECT The undersigned Ocean Carrier hereby acknowledges receipt on board of the sealed container
+or packages or other shipping units said to contain the Goods described above in apparent external
+good order and condition unless otherwise started. All particulars (weight, measure, marks, numbers,
+quantity, contents, value, etc) thereof being as stated by the Merchant but unknown to the Ocean
+Carrier.
+In accepting this Bill of Lading the Merchant accepts and agrees that the receipt, custody,
+FREIGHT PREPAID
+carriage and delivery of the goods is subject to all the terms and conditions set forth and incorporated
+by reference on this side and reverse hereof, whether written, stamped or printed.
+The Ocean Carrier has signed the above mentioned number of originals of this Bill of Lading
+all of the same tenor and date, one of which being accomplished, the others to be void.
+Signed on behalf of the Ocean Carrier by:
+TOTAL
+PLACE OF ISSUE: MOSCOW as agent for the Ocean Carrier,
+DATE OF ISSUE: 23.12.2024 FESCO INTEGRATED TRANSPORT LLC
+^APPLICABLE ONLY WHEN USED AS A MULTIMODAL BILL OF LADING 2897942
+사 업 자. 등 록 증
+（ 법인사업자 ）
+등록번호: 126-85-60331
+법인명（단체명） : 켐마트코리아 （주） 이천공장
+대 표 자 : 권호연
+개업 연월일 : 2014 년 08 월 25 일 법인등록번호 : 110111-3618331
+사업장 소 재 지 : 경기도 이천시 신둔면 황무로338번길 281，용면리72-15,72-25
+，72-26,72-27
+본점 소재지 : 서울특별시 서초구 논현로 79，1905호（양재동，원드스톤 호
+피스텔）
+사업의 종류 : [Sf] 제조업 fl히 목재가공및시공
+도소매 무역
+발급 사유 :사업장주소추가
+TEL : 02-575-8400
+FAX : 02-575-9017
+E-MAIL : chemart2@bill36524.com
+사업자 단위 과세 적용사업자 여부 여( ) 부(V)
+전자세금계산서 전용 전자우편주소 chemart2@hometax.go.kr
+2019 년 03 월 15 일
+이천 세무서장

@@ -1,0 +1,59 @@
+# 추출 방법: PyMuPDF (직접 추출)
+# 원본 파일: 39642_상업송장_80478250000GC_2025-01-10_러시아 연방_홍콩_OCR.pdf
+# 추출 시간: 2026-02-02T23:55:11.511595
+# 총 문자 수: 1,155자
+# 총 페이지: 1페이지
+============================================================
+
+COMMERCIAL INVOICE
+231-5391 R(2)
+(l)Shipper/Exporter
+Global Forest
+Global Forest. Investment Limited
+UNIT 2303-4, 23/F” HING YIP COMMERCIAL CENTRE, 
+272-284 DES VOEUX ROAD CENTRAL,
+HONG KONG
+(2) For account & risk of Messrs
+HANKUK PAPER MFG. CO., LTD.
+40, WONSAN-RO, ONSAN-EUP,
+ULJU-GUN, ULSAN, KOREA
+TEL:02-3475-7314 FAX:02-3473-2133
+(3) Notify party
+ENERCELL INTERNATIONAL LTD.
+803, 354, GANGNAM-DAERO,
+GANGNAM-GU, SEOUL, 06242, KOREA
+(8) No. & Date of invoice
+GFI24-297 
+DEC. 17, 2024
+(9) Documentary Credit Number and Date
+M100K2412NU00203 
+DEC. 17, 2024
+(10) L/C issuing bank
+KOOKMIN BANK, SEOUL
+(11) Remarks
+(4)Port of loading
+(5)Port of discharge
+VLADIVOSTOK PACIFIC
+LOGISTICS PORT, RUSSIA
+뀨-------------
+SENDAI TRADER 2425S 
+(12)Marks and numbers of PKGS
+BUSAN, KOREA 
+(7)Sailing on or about 
+________DEC. 13, 2024
+(13)Description of Goods
+(14)Quantity/Unit |(15)Unit-price
+| (16) Amount
+CIF BUSAN
+COUNTRY OF ORIGIN : RUSSIA 
+-----------------
+BLEACHED SULPHATE
+KRAFT SOFTWOOD PULP 
+259.893ADMT USD 731.22/ADMT USD190,038.95
+BRATSK BRAND 
+=============
+HS NO 4703. 21. 20. 00
+Ref. No. 124-297
+F.: (852)2815 3312
+(17) Signed By 
+昔.⑶ ?獻ES_T LIMITED

@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 추출 결과 (필요시 제거)
+# 추출결과/

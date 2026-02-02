@@ -1,0 +1,107 @@
+# 추출 방법: PyMuPDF (직접 추출)
+# 원본 파일: 37136_상업송장_4148024001SVC_2025-01-02_러시아 연방_홍콩_OCR.pdf
+# 추출 시간: 2026-02-02T23:55:08.047385
+# 총 문자 수: 1,083자
+# 총 페이지: 1페이지
+============================================================
+
+INVOICE
+OW-6
+DATE:
+10.12.2024
+SENT BY
+Company Name:
+SODATEX LIMITED
+Address:
+2302, 23/F, Tung Chiu Conunercial Centre,
+193-197 Lockhart Road, Wancha丄, Hong Kong
+Bank:
+Standard Chartered Bank (Hong Kong) Ltd
+Bank Address:
+32nd Floor, 4-4A Des Voeux Road Central
+Account 
+number:
+47413302137
+SWIFT
+SCBLHKHH
+SENT TO
+Company Name:
+ONESTOP WOOD CO.f LTD
+Address:
+22, DODONG-RO, 88BEON-GIL, JINJU-SI, GYEONGSANGNAM-DO, KOREA
+OW-SL/2022 dd 29.06.2022
+Contract »
+次、inar몌乂t,
+ft' anti «n 技sJfo公 qf' 
+Sodatex limited
+，세、
+Terms of delivery:
+Good:
+CFR Busan
+White wood
+Description of Goods
+Quantity
+Price in 
+USD
+Amount in USD
+sawn timber
+Grade
+Thickness in
+Width in mma
+Length in
+in cbms
+container
+DYLU5118311
+White wood
+1-4
+26
+148
+3650
+43,18
+290,00
+12 522,20
+Total:
+43,IB
+12 522,20
+container
+NSSU706B850
+White wood
+i-4
+26
+148
+3650
+42,48
+290,00
+12 319,20
+Total:
+42Z4B
+12 319,20
+container
+White wood
+1 ᅯ
+26
+ne
+3650
+42,48
+290,00
+12 319,20
+Total:
+42X4B
+12 319,20
+container
+DYUJ5149462
+White uood
+卜 4
+26
+148
+3650
+42,49
+293r00
+12 319r20
+Total:
+42,48
+12 319,20
+Total:
+170,62
+49 479,80
+Chan Cheuk Ling

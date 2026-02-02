@@ -1,0 +1,90 @@
+# 추출 방법: pdfplumber (직접 추출)
+# 원본 파일: 38971_상업송장_13028250001QC_2025-01-08_러시아 연방_인도네시아_OCR.pdf
+# 추출 시간: 2026-02-02T23:55:11.444787
+# 총 문자 수: 3,469자
+# 총 페이지: 2페이지
+============================================================
+
+INVOICE 他 30123413 dated 08.11.2024
+Contract: PT-PLY 32/11-2024 dated 08.11.2024
+Addend ix: 1 dated 08.11.2024
+Order: 30123413 dated 08.11.2024
+SENT BY
+The Seller: Consignor:
+PT MATAHARI SMART INNOVATIONS PT MATAHARI SMART INNOVATIONS
+JALAN GUNUNG SOPUTAN 1A, PURI PARTHA LESTARI NOMOR: 2, Denpasar, Bali 80361 JALAN GUNUNG SOPUTAN 1A, PUR! PARTHA LESTARI NOMOR: 2, Denpasar,
+Ns 109 Sisli Bali 80361
+No 109 Sisli
+SENT TO
+The Buyer: The Consignee:
+DIWOOD CO., LTD DIWOOD CO.. LTD
+South Korea, Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si South Korea, Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si
+Payment: Advance 100 %
+Country of destination: South Korea
+Delivery terms: CIP INCHEON
+Transport: HNKU6084102
+Description of goods
+Commodity code: 4412330000
+Species, Genus (Botanical name) - Betula pendula
+BIRCH PLYWOOD, Exterior, Emission E-1
+Sheets per Brutto
+Full description of goods Packs Sheets Quantity Unit USD/m3 Amount, USD
+pack Weight,
+WBP B/BB 2440x1220x4 S2S 400mm 100 ◎ 100 2 200 1 762 2,38 M3 1324 3151,12
+WBP B/BB 2440x1220x6 S2S 400mm 65、Q7 的 2 130 1 720 2,32 M3 950 2204
+WBP BB/BB 2440x1220x6 S2S 400mm 65 ) 65 2 130 1 720 2,32 M3 767 1779,44
+WBP B/BB 2440x1220x9 S2S 400mm 44 \ 44 3 132 2 622 3,54 M3 810 2867,4
+WBP BB/BB 2440x1220x9 S2S 400mm 44 / 44 2 88 1 748 2,36 M3 637 1503,32
+WBP B/BB 2440x1220x12 S2S 400mm 33 , 33 8 264 6 992 9,44 M3 765 7221,6
+WBP BB/BB 2440x1220x12 S2S 400mm 33 1 인 , 33 2 66 1 748 2,36 M3 604 1425,44
+WBP B/BB 2440x1220x15 S2S 400mm 26 26 2 52 1 720 2,32 M3 737 1709,84
+WBP B/BB 2440x1220x21 S2S 400mm 19 19 2 38 1 762 2,38 M3 733 1744,54
+WBP B/BB 2440x1220x24 S2S 400mm 16 16 3 32 2 538 3,42 M3 738,00 2523,96
+TOTAL: 28 1132 24 332 32,84 26 130,66
+VAT
+24382
+Prepayment, USD
+Please arrange remittance of the above amount 26130,66 in full, according to terms of the contract.
+Account number: 1450015242288 (USD) 이WOOD CO., LTD
+BANK : PT. BANK MANDIRI (PERSERO) Tbk South Korea, Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si
+Bank Branch : KCP Kerobokan
+Bank Clearing Code : 008-3292 Bank name:
+Bank Address : Jalan Raya Kerobokan No. 104 Kuta Utara B0361 Bank Address:
+Bank Swift code : BMRIIDJA IBAN:
+BIC(SWIFT):
+Correspondent Bank:
+SWIFT:
+The Seller:
+PT MATAHARI SMART INNOVATIONS, JALAN GUNUNG SOPUTAN 1A, PURI PARTHA LESTARI
+NOMOR: 2, Denpasar, Bali 80361
+The Shipper:
+PT MATAHARI SMART INNOVATIONS, JALAN GUNUNG SOPUTAN 1A, PURI PARTHA LESTARI
+NOMOR: 2, Denpasar, Bali 80361
+Packing list > 80754788
+SALES ORDER 1
+Date: 25.12.2024 Ref: 30123413
+The Consignee: DIWOOD CO.，LTD
+Delivery address: South Korea，Gyeonggi-do, 3, Sansu-ro 440 beon-gil, Chowol-eup, Gwangju-si
+Contract Container no. Consignor Delivery terms
+PT-PLY 32/11-2024 dd
+VYATSKY PLYWOOD
+08.11.2024 HNKU6084102 CIP INCHEON
+MILL LLC
+COMMODITY: PLYWOOD
+SALES ORDER 1
+PACKING: EXPORT PACKING
+Sheets per
+Packs Quantity,M3 Gross Weight, kg
+SPECIFICATION pack
+WBP B/BB 2440x1220x4 S2S 400mm 100 100 2 2,38 1762
+WBP B/BB 2440x1220x6 S2S 400mm 65 65 2 2,32 1720
+WBP BB/BB 2440x1220x6 S2S 400mm 65 65 2 2,32 1720
+WBP B/BB 2440x1220x9 S2S 400mm 44 44 3 3,54 2 622
+WBP BB/BB 2440x1220x9 S2S 400mm 44 44 2 2,36 1748
+WBP B/BB 2440x1220x12 S2S 400mm 33 33 8 9,44 6 992
+WBP BB/BB 2440x1220x12 S2S 400mm 33 33 2 2,36 1748
+WBP B/BB 2440x1220x15 S2S 400mm 26 26 2 2,32 1720
+WBP B/BB 2440x1220x21 S2S 400mm 19 19 2 2,38 1762
+WBP B/BB 2440x1220x24 S2S 400mm 16 16 3 3,42 2 538
+TOTAL: 28 32,84 24 332
+Total Gross Weight: 24 382 kg

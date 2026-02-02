@@ -1,0 +1,221 @@
+# 추출 방법: PyMuPDF (직접 추출)
+# 원본 파일: 37440_상업송장_23104250000OC_2025-01-02_러시아 연방_중국_OCR.pdf
+# 추출 시간: 2026-02-02T23:55:08.493399
+# 총 문자 수: 4,696자
+# 총 페이지: 3페이지
+============================================================
+
+SUIFENHE SOURCE SHENGXIN IMPORT & EXPORT CO., LTD.
+EXPORTER/SELLAR/BENEFICIARY
+SUIFENHE CITY SOURCE SHENGXIN IMPORT & EXPORT
+CO., LTD. 102, BLD. 14, ZHONGFU MINGDU GARDEN, 
+NORTH ZHONGFUSTR., WEST CHANGJIANG RD.,
+SUIFENHE, MUDAXJIANG, CHINA
+TO:MESSRS
+SAMHWA TREE TRADE CO., LTD
+634-1 NON HYEON DONG NAMDONG GU
+INCHEON KOREA TEL
+LOADING PORT
+DALIAN CHINA 
+TO 
+■■ KOREA
+L/C NO. 
+T/T
+OCEAN VESSEL/VOY. NO.
+YA LU JIANG/789E
+INVOICE NO.___________ DATE:
+LSZ24-004 
+|23/Dec/24
+ORDER NO. /SALES CONFIRMATION NO. 
+LSZ24-004
+TERMS OF DELIVERY AND PAYMENT
+CFR INCHEON KOREA
+B/L NO.
+DBRDLINC24126008
+SHIPPING MARKS
+DESCRIPTION OF GOODS
+WOODEN BIRCH LUMBER
+27*210/300*400/540 MM
+TOTAL: PACKED IN 20 PALLETS.
+QUANTITY UNIT PRICE
+USD/PC
+6344 PCS 1. 92
+6344 PCS
+AMOUNT
+USD 12, 180. 48
+USD 12, 180. 48
+reaFWCO.LTD.j
+
+SUIFENHE SOURCE SHENGXIN IMPORT & EXPORT CO.，LTD.
+EXPORTER/SELLAR/BENEFICIARY
+PACKING LIST
+SUIFENHE CITY SOURCE SHENGXIN IMPORT & 狀PORT
+CO.，LTD. 102, BLD. 14, ZHONGFU MINGDU GARDEN, NORTH 
+ZHONGFU STR., WEST CHANGJIANG RD.,
+SUIFENHE, MUDANJIAXG, CHINA
+TO:MESSRS
+SAMHWA TREE TRADE CO., LTD.
+634-1 NON HYEON DONG NAMDONG GU
+INCHEON KOREA TEL
+LOADING PORT
+INVOICE NO.
+DATE:
+DALIAN CHINA
+LSZ24-004
+23/Dec/24
+TO
+ORDER NO. /SALES CONFIRMATION NO.
+INCHEON KOREA
+LSZ24-004
+L/C NO.
+TERMS OF DELIVERY AND PAYMENT
+T/T
+CFR INCHEON KOREA
+OCEAN VESSEL/VOY. NO.
+B/L NO.
+YA LU JIANG/789E
+DBRDLINC24126008
+SHIPPING MARKS
+DESCRIPTION OF GOODS
+QUANTITY
+G. W. kgs N. W. kgs
+Meas. M3
+N/M
+WOODEN BIRCH LUMBER 
+27*210/300*400/540 MM
+TOTAL: PACKED IN 20 PALLETS.
+6344
+6344
+PCS
+PCS
+17200
+17200
+KGS
+16800
+16800
+KGS
+22. 00
+22M3
+SU« CITrWf S盤然IH
+
+I.Shipper Insert Name,Address and Phone
+SUIFENHE CITY SOURCE SHENGXIN IMPORT & EXPORT CO..LTD.
+102,BLD.14,ZHONGFU MINGDU GARDEN.NORTH ZHONGFU
+STR.,WEST CHANGJIANG RD..SUIFENHE.MUDANJIANG, CHINA
+:， / -
+^.Consignee Insert Name, Address and Phone
+SAMHWA TREE TRADE CO.,LTD.
+634-1 NON HYEON DONG NAMDONG GU INCHEON KOREA 
+TEL:821034220651
+大佳集友杯潮海集裝糖送輸有限公司
+DBR CONTAINER LINES CO,. LTD
+PROOFREAD
+NON-NEGOTIABLE
+No.of 
+Containers 
+or Packages 
+20 
+PALLETS
+Description of Goods(lf Dangerous hoods,See Clause 20) 
+// . ，’
+SHIPPER’S LOAD&COUNT&SEAL
+WOODEN BIRCH LUMBER
+CY-CY ,
+FREIGHT PREPAID
+SHIPPED ON BOARD
+Korea Service:Contact List
+NAME: KIM NA RI (金解前)
+CONTRACT: COSCO Shipping Korea, Incheon office
+ADDRESS: #306, Jungseok New Building, 366, Seohae-daero, 
+Chung-gu, Incheon, Korea
+TEL: 032-891-8070 / Fax: 032-891-5055
+QQ: 2846282605
+E-MAIL: kimnr@coscokorea.com
+Gross Weight Kgs
+17200.000 KGS
+Measurement
+22.0000 CBM
+3.Notify .Party insert Name. Address and Phone
+(It Is 
+that no r«tp公■tibHity shaH attach to Cirrin or his 
+for failure to ootify)
+SAMHWA TREE TRADE CO.,LTD.
+634-1 NON HYEON DONG NAMDONG GU INCHEON KOREA
+Port-to-Port or Combiued Transport 
+BILL OF LADING
+RECEIVED in external apparent good order and condition except as 
+otherwise noted.The total number of packages or units stuffed in the contain­
+er,the description of the goods and the weights shown in this Bill of Lading are 
+furnished by the Merchants,and which the carrier has no reasonable means of 
+checking and Is not a part of this Bill of Lading contradt.The carrier has issued
+the number of Bills of Lading stated below.all of this tenor and date.one of the
+4.Pre-carriage by*
+5.Place of Receipt*
+DALIAN
+6.Ocean Vessel Voy.No.
+7.Port of Loading
+YA LU JIANG 789E
+DALIAN
+8.Port of Discharge 
+INCHON
+9.Combined Transport* 
+Place of Delivery INCHON
+original Bills of Lading must be surrendered and endorsed or signed against 
+the delivery of the shipment and whereupon any other original Bill of Lading 
+shall be void.The Merchants agree to be bound by the terms and conditions of 
+this Bill of Lading a* if each had personally signed this Bill of Lading. 
+SEE clause 4 on the back of this Bill of Lading (Terms continued on the back 
+hereof,pleaseread carefully)
+•Applicable Only When Document Used as a Combined Transport Bill of Lading.
+PARTICULARS AS DECLARED BY SHIPPER-BUT WITHOUT REPRESENTATION AND NOT ACKNOWLEDGED BY CARRIER
+Marks &No，. 
+Container/Seal No.
+N/M
+PDAU2006706 DBR 1069426 GP 20
+Description of Contents for Shipper's Use Oi)ly(Not part of This B/L Contract)
+10.Total Number of containers and/or packages(in words) 
+M Subject to Clause 7 Limitation ONE (1) Containers Only
+11.Freight & Charges
+Revenue Tons
+Rate
+Per
+.Prepaid z
+Collect
+FREIGHT PREPAID
+/ i 
+•、'、'
+Declared Value Charge
+、、'、一' ' 
+文、'
+Ex.Rate:
+Prepaid at 
+DALIAN
+Payable at
+Place and date of Issue
+DALIAN,CHINA
+Total Prepaid
+No.of Original B(s)/L
+Signed for the Carrier,DBR CONTAINER LINES CO, LTD
+B/L NO.
+DBRDLINC24126008
+>
+公
+ 
+고
+ 
+91ISIUJI3
+U.S
+J
+«
+n
+l
+l
+o
+w
+.
+l
+m
+a.
+LADEN ON BOARD THE VESSEL
+DATE 
+by DALIAN,CHINA
